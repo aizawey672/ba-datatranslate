@@ -1,0 +1,28 @@
+id: 13010
+dev name: Yuuka_default
+
+
+### ----- Info -----
+name: Yuuka
+rarity: SR : ★★☆☆☆
+
+school: Millennium
+club: "TheSeminar"
+tags: "Millennium" :; "AllyMedium" :; "Main" :; "HeavyArmor" :; "Explosion" :; "Front" :; "SMG" :; "Cover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Over_A"
+
+
+### ----- Status -----
+type: striker
+role: tanker
+position: front
+
+armor:  heavy_armor
+bullet: explosion
+
+weapon: SMG
+aim ik: two_hand_right
+
+equipments: shoes :; badge :; charm
+
+
+### ----- Stats -----

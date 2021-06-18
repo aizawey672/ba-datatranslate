@@ -1,0 +1,28 @@
+id: 29006
+dev name: Saya_Casual
+
+
+### ----- Info -----
+name: Saya Casual
+rarity: R - ★☆☆☆☆
+
+school: Shanhaijing
+club: "IndeShanhaijing"
+tags: ["Shanhaijing"]
+
+
+### ----- Status -----
+type: special
+role: supporter
+position: back
+
+armor:  unarmed
+bullet: normal
+
+weapon: HG
+aim ik: none
+
+equipments: [hat, hairpin, necklace]
+
+
+### ----- Stats -----

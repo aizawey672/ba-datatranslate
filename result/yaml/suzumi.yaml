@@ -1,0 +1,28 @@
+id: 16003
+dev name: Suzumi_default
+
+
+### ----- Info -----
+name: Suzumi
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "TrinityVigilance"
+tags: ["Trinity", "AllyMedium", "Main", "HeavyArmor", "Explosion", "Middle", "AR", "Cover", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Under_B"]
+
+
+### ----- Status -----
+type: striker
+role: supporter
+position: middle
+
+armor:  heavy_armor
+bullet: explosion
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ----- Stats -----

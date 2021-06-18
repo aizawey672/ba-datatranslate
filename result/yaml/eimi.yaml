@@ -1,0 +1,28 @@
+id: 10001
+dev name: Eimi_default
+
+
+### ----- Info -----
+name: Eimi
+rarity: SSR - ★★★☆☆
+
+school: Millennium
+club: "SPTF"
+tags: ["Millennium", "AllyMedium", "Main", "LightArmor", "Explosion", "Front", "SG", "Uncover", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Under_B"]
+
+
+### ----- Status -----
+type: striker
+role: tanker
+position: front
+
+armor:  light_armor
+bullet: explosion
+
+weapon: SG
+aim ik: two_hand_right
+
+equipments: [shoes, bag, charm]
+
+
+### ----- Stats -----

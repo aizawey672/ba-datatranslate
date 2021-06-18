@@ -1,0 +1,28 @@
+id: 23001
+dev name: Fuuka_default
+
+
+### ----- Info -----
+name: Fuuka
+rarity: SR : ★★☆☆☆
+
+school: Gehenna
+club: "FoodService"
+tags: "Gehenna" :; "AllyMedium" :; "Support" :; "HeavyArmor" :; "Explosion" :; "SMG" :; "StreetBattle_Over_A" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B" :; "Uncover"
+
+
+### ----- Status -----
+type: special
+role: healer
+position: back
+
+armor:  heavy_armor
+bullet: explosion
+
+weapon: SMG
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ----- Stats -----

@@ -1,0 +1,28 @@
+id: 10009
+dev name: Izumi_default
+
+
+### ----- Info -----
+name: Izumi
+rarity: SSR : ★★★☆☆
+
+school: Gehenna
+club: "GourmetClub"
+tags: "Gehenna" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Explosion" :; "Back" :; "MG" :; "Uncover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  light_armor
+bullet: explosion
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: gloves :; hairpin :; watch
+
+
+### ----- Stats -----

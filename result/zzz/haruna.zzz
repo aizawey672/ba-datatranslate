@@ -1,0 +1,28 @@
+id: 10002
+dev name: Haruna_default
+
+
+### ----- Info -----
+name: Haruna
+rarity: SSR : ★★★☆☆
+
+school: Gehenna
+club: "GourmetClub"
+tags: "Gehenna" :; "AllyMedium" :; "Main" :; "HeavyArmor" :; "Mystic" :; "Back" :; "SR" :; "Cover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  heavy_armor
+bullet: mystic
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; watch
+
+
+### ----- Stats -----

@@ -1,0 +1,28 @@
+id: 26006
+dev name: Nodoka_default
+
+
+### ----- Info -----
+name: Nodoka
+rarity: R - ★☆☆☆☆
+
+school: RedWinter
+club: "Class227"
+tags: ["RedWinter", "AllyMedium", "Support", "HeavyArmor", "Explosion", "SMG", "StreetBattle_Under_B", "OutdoorBattle_Over_A", "IndoorBattle_Over_A", "Uncover"]
+
+
+### ----- Status -----
+type: special
+role: supporter
+position: back
+
+armor:  heavy_armor
+bullet: explosion
+
+weapon: SMG
+aim ik: none
+
+equipments: [gloves, hairpin, necklace]
+
+
+### ----- Stats -----

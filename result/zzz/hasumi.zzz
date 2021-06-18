@@ -1,0 +1,28 @@
+id: 13003
+dev name: Hasumi_default
+
+
+### ----- Info -----
+name: Hasumi
+rarity: SR : ★★☆☆☆
+
+school: Trinity
+club: "Justice"
+tags: "Trinity" :; "AllyMedium" :; "Main" :; "HeavyArmor" :; "Pierce" :; "Back" :; "SR" :; "Cover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  heavy_armor
+bullet: pierce
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; watch
+
+
+### ----- Stats -----

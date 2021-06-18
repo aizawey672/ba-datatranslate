@@ -1,0 +1,28 @@
+id: 10006
+dev name: Iori_default
+
+
+### ----- Info -----
+name: Iori
+rarity: SSR : ★★★☆☆
+
+school: Gehenna
+club: "Fuuki"
+tags: "Gehenna" :; "AllyMedium" :; "Main" :; "HeavyArmor" :; "Pierce" :; "Back" :; "SR" :; "Cover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Over_A"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  heavy_armor
+bullet: pierce
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; watch
+
+
+### ----- Stats -----

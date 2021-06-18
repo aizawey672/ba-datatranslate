@@ -1,0 +1,28 @@
+id: 19003
+dev name: Sakurako_default
+
+
+### ----- Info -----
+name: Sakurako
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "SisterHood"
+tags: [""
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: middle
+
+armor:  unarmed
+bullet: pierce
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: [gloves, bag, charm]
+
+
+### ----- Stats -----

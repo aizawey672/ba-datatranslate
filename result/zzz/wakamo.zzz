@@ -1,0 +1,28 @@
+id: 19012
+dev name: Wakamo_default
+
+
+### ----- Info -----
+name: Wakamo
+rarity: R : ★☆☆☆☆
+
+school: Hyakkiyako
+club: "IndeHyakkiyako"
+tags: "Hyakkiyako"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  heavy_armor
+bullet: explosion
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: shoes :; bag :; watch
+
+
+### ----- Stats -----

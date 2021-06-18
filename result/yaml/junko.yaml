@@ -1,0 +1,28 @@
+id: 13007
+dev name: Zunko_default
+
+
+### ----- Info -----
+name: Junko
+rarity: SR - ★★☆☆☆
+
+school: Gehenna
+club: "GourmetClub"
+tags: ["Gehenna", "AllyMedium", "Main", "LightArmor", "Pierce", "Middle", "AR", "Cover", "StreetBattle_Under_B", "OutdoorBattle_Over_A", "IndoorBattle_Under_B"]
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: middle
+
+armor:  light_armor
+bullet: pierce
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: [hat, hairpin, watch]
+
+
+### ----- Stats -----

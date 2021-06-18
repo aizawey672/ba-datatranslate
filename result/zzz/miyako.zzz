@@ -1,0 +1,28 @@
+id: 19014
+dev name: Miyako_default
+
+
+### ----- Info -----
+name: Miyako
+rarity: R : ★☆☆☆☆
+
+school: None
+club: "None"
+tags:""
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: middle
+
+armor:  light_armor
+bullet: explosion
+
+weapon: SMG
+aim ik: two_hand_right
+
+equipments: shoes :; bag :; watch
+
+
+### ----- Stats -----

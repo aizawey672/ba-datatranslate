@@ -1,0 +1,28 @@
+id: 19004
+dev name: Erika_default
+
+
+### ----- Info -----
+name: Erika
+rarity: R : ★☆☆☆☆
+
+school: Gehenna
+club: "IndeGEHENNA"
+tags: "Gehenna"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: front
+
+armor:  light_armor
+bullet: explosion
+
+weapon: SG
+aim ik: two_hand_right
+
+equipments: hat :; bag :; charm
+
+
+### ----- Stats -----

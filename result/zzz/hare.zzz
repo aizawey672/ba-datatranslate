@@ -1,0 +1,28 @@
+id: 23003
+dev name: Hare_default
+
+
+### ----- Info -----
+name: Hare
+rarity: SR : ★★☆☆☆
+
+school: Millennium
+club: "Veritas"
+tags: "Millennium" :; "AllyMedium" :; "Support" :; "LightArmor" :; "Explosion" :; "AR" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B" :; "Uncover"
+
+
+### ----- Status -----
+type: special
+role: supporter
+position: back
+
+armor:  light_armor
+bullet: explosion
+
+weapon: AR
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ----- Stats -----

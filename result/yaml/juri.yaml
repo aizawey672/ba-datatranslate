@@ -1,0 +1,28 @@
+id: 26002
+dev name: Juri_default
+
+
+### ----- Info -----
+name: Juri
+rarity: R - ★☆☆☆☆
+
+school: Gehenna
+club: "FoodService"
+tags: ["Gehenna", "AllyMedium", "Support", "LightArmor", "Explosion", "SG", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Over_A", "Uncover"]
+
+
+### ----- Status -----
+type: special
+role: supporter
+position: back
+
+armor:  light_armor
+bullet: explosion
+
+weapon: SG
+aim ik: none
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ----- Stats -----

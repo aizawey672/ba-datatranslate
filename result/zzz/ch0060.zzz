@@ -1,0 +1,28 @@
+id: 19009
+dev name: CH0060
+
+
+### ----- Info -----
+name: CH0060
+rarity: R : ★☆☆☆☆
+
+school: Trinity
+club: "Justice"
+tags: "Trinity" :; "AllyMedium"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: front
+
+armor:  heavy_armor
+bullet: pierce
+
+weapon: SG
+aim ik: dual
+
+equipments: gloves :; bag :; charm
+
+
+### ----- Stats -----

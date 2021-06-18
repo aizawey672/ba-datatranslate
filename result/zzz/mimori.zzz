@@ -1,0 +1,28 @@
+id: 19017
+dev name: Mimori_default
+
+
+### ----- Info -----
+name: Mimori
+rarity: R : ★☆☆☆☆
+
+school: Hyakkiyako
+club: "Shugyobu"
+tags: "Hyakkiyako" :; "AllyMedium"
+
+
+### ----- Status -----
+type: striker
+role: supporter
+position: middle
+
+armor:  light_armor
+bullet: mystic
+
+weapon: HG
+aim ik: one_hand_right
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ----- Stats -----

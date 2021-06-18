@@ -1,0 +1,28 @@
+id: 23005
+dev name: Ayane_default
+
+
+### ----- Info -----
+name: Ayane
+rarity: SR : ★★☆☆☆
+
+school: Abydos
+club: "Countermeasure"
+tags: "Abydos" :; "AllyMedium" :; "Support" :; "LightArmor" :; "Pierce" :; "HG" :; "StreetBattle_Under_B" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Over_A" :; "Uncover"
+
+
+### ----- Status -----
+type: special
+role: healer
+position: back
+
+armor:  light_armor
+bullet: pierce
+
+weapon: HG
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ----- Stats -----

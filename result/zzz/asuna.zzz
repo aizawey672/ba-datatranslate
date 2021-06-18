@@ -1,0 +1,28 @@
+id: 16001
+dev name: Asuna_default
+
+
+### ----- Info -----
+name: Asuna
+rarity: R : ★☆☆☆☆
+
+school: Millennium
+club: "CleanNClearing"
+tags: "Millennium" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Mystic" :; "Middle" :; "AR" :; "Cover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: middle
+
+armor:  light_armor
+bullet: mystic
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: gloves :; hairpin :; watch
+
+
+### ----- Stats -----

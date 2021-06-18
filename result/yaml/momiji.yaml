@@ -1,0 +1,28 @@
+id: 19015
+dev name: Momiji_default
+
+
+### ----- Info -----
+name: Momiji
+rarity: R - ★☆☆☆☆
+
+school: RedWinter
+club: "None"
+tags: ["RedWinter"]
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  light_armor
+bullet: explosion
+
+weapon: RL
+aim ik: two_hand_right
+
+equipments: [shoes, bag, watch]
+
+
+### ----- Stats -----

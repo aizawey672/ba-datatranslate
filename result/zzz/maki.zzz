@@ -1,0 +1,28 @@
+id: 10007
+dev name: Maki_default
+
+
+### ----- Info -----
+name: Maki
+rarity: SSR : ★★★☆☆
+
+school: Millennium
+club: "Veritas"
+tags: "Millennium" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Pierce" :; "Back" :; "MG" :; "Uncover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  light_armor
+bullet: pierce
+
+weapon: MG
+aim ik: none
+
+equipments: gloves :; hairpin :; watch
+
+
+### ----- Stats -----

@@ -1,0 +1,28 @@
+id: 10017
+dev name: Cherino_default
+
+
+### ----- Info -----
+name: Cherino
+rarity: SSR : ★★★☆☆
+
+school: RedWinter
+club: "RedwinterSecretary"
+tags: "RedWinter" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Pierce" :; "Middle" :; "HG" :; "Cover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: middle
+
+armor:  light_armor
+bullet: pierce
+
+weapon: HG
+aim ik: one_hand_left
+
+equipments: shoes :; badge :; watch
+
+
+### ----- Stats -----

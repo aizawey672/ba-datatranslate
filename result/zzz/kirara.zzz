@@ -1,0 +1,28 @@
+id: 19000
+dev name: Kirara_default
+
+
+### ----- Info -----
+name: Kirara
+rarity: R : ★☆☆☆☆
+
+school: Millennium
+club: "GameDev"
+tags: "Millennium" :; "AllyMedium"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: middle
+
+armor:  heavy_armor
+bullet: pierce
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: shoes :; hairpin :; watch
+
+
+### ----- Stats -----

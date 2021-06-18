@@ -1,0 +1,28 @@
+id: 19008
+dev name: Izumi_swimsuit
+
+
+### ----- Info -----
+name: Izumi swimsuit
+rarity: R - ★☆☆☆☆
+
+school: Gehenna
+club: "None"
+tags: ["Gehenna"]
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  heavy_armor
+bullet: pierce
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: [shoes, bag, watch]
+
+
+### ----- Stats -----

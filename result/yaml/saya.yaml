@@ -1,0 +1,28 @@
+id: 20002
+dev name: Saya_default
+
+
+### ----- Info -----
+name: Saya
+rarity: SSR - ★★★☆☆
+
+school: Shanhaijing
+club: "Endanbou"
+tags: ["Shanhaijing", "AllyMedium", "Support", "LightArmor", "Explosion", "HG", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Over_A", "Uncover"]
+
+
+### ----- Status -----
+type: special
+role: damage_dealer
+position: back
+
+armor:  light_armor
+bullet: explosion
+
+weapon: HG
+aim ik: none
+
+equipments: [gloves, hairpin, watch]
+
+
+### ----- Stats -----

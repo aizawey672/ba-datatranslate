@@ -1,0 +1,28 @@
+id: 19011
+dev name: Tomoe_default
+
+
+### ----- Info -----
+name: Tomoe
+rarity: R : ★☆☆☆☆
+
+school: RedWinter
+club: "RedwinterSecretary"
+tags: "RedWinter"
+
+
+### ----- Status -----
+type: striker
+role: supporter
+position: back
+
+armor:  unarmed
+bullet: normal
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: gloves :; hairpin :; necklace
+
+
+### ----- Stats -----

@@ -1,0 +1,28 @@
+id: 10016
+dev name: Midori_default
+
+
+### ----- Info -----
+name: Midori
+rarity: SSR - ★★★☆☆
+
+school: Millennium
+club: "GameDev"
+tags: ["Millennium", "AllyMedium", "Main", "LightArmor", "Pierce", "Back", "SR", "Cover", "StreetBattle_Under_B", "OutdoorBattle_Over_A", "IndoorBattle_Under_B"]
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  light_armor
+bullet: pierce
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: [gloves, hairpin, watch]
+
+
+### ----- Stats -----

@@ -1,0 +1,28 @@
+id: 10004
+dev name: Hina_default
+
+
+### ----- Info -----
+name: Hina
+rarity: SSR : ★★★☆☆
+
+school: Gehenna
+club: "Fuuki"
+tags: "Gehenna" :; "AllyMedium" :; "Main" :; "HeavyArmor" :; "Explosion" :; "Back" :; "MG" :; "Uncover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  heavy_armor
+bullet: explosion
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; watch
+
+
+### ----- Stats -----

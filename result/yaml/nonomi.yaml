@@ -1,0 +1,28 @@
+id: 13004
+dev name: Nonomi_default
+
+
+### ----- Info -----
+name: Nonomi
+rarity: SR - ★★☆☆☆
+
+school: Abydos
+club: "Countermeasure"
+tags: ["Abydos", "AllyMedium", "Main", "LightArmor", "Pierce", "Back", "MG", "Uncover", "StreetBattle_Over_A", "OutdoorBattle_Over_A", "IndoorBattle_Under_B"]
+
+
+### ----- Status -----
+type: striker
+role: damage_dealer
+position: back
+
+armor:  light_armor
+bullet: pierce
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: [hat, hairpin, watch]
+
+
+### ----- Stats -----
