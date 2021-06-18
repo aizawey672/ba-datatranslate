@@ -224,27 +224,36 @@ block:
     
     let jsonContent = parseFile(filePath)["DataList"]
     for node in jsonContent.items:
-        # early out if node type is not student
-        if node["TacticEntityType"].getStr != "Student": continue
-        if node["Id"].getInt.intToStr.len != 5: continue
+        block blk:
+            # early out if node type is not student
+            if node["TacticEntityType"].getStr != "Student": continue
+            if node["Id"].getInt.intToStr.len != 5: continue
 
-        let student = initFromJson(node)
-        stundentTable[student.id] = student
+            for unnecessaryName in ["dummy", "tank"]:
+                if node["DevName"].getStr.toLowerAscii().contains(unnecessaryName):
+                    break blk
+
+            let student = initFromJson(node)
+            stundentTable[student.id] = student
 
 when isMainModule:
-    let destDir = "result/zzz"
-    createDir(destDir)
+    let destDir = "result"
 
     for node in stundentTable.values:
         block:
+            let destDir  = destDir / "zzz"
+            createDir(destDir)
+
             let
               fileName = node.name.toLowerAscii() & ".zzz"
               filePath = destDir / fileName
             writeFile(filePath, node.toZzz())
 
         block:
+            let destDir  = destDir / "yaml"
+            createDir(destDir)
+
             let
               fileName = node.name.toLowerAscii() & ".yaml"
               filePath = destDir / fileName
-        
             writeFile(filePath, node.toYaml())
