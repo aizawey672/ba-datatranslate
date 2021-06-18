@@ -24,8 +24,9 @@ def stripName(string: str):
 ### Schemes
 def toZZZString(student):
     result = textwrap.dedent(f"""\
-    id: {student['Id']}
-    dev name: {student['DevName']}
+    id: {student["Id"]}
+    dev name: {student["DevName"]}
+    production step: {student["ProductionStep"]} 
 
 
     ### ------- INFO -------
@@ -138,8 +139,9 @@ def toZZZString(student):
 
 def toYamlString(student):
     result = textwrap.dedent(f"""\
-    id: {student['Id']}
-    dev name: {student['DevName']}
+    id: {student["Id"]}
+    dev name: {student["DevName"]}
+    production step: {student["ProductionStep"]} 
 
 
     ### ------- INFO -------
@@ -301,7 +303,6 @@ with open(filePath, 'r') as f:
                     hasAtleastOneKey = True
                     break
 
-            print(hasAtleastOneKey)
             if hasAtleastOneKey:
                 characterTable[node["CharacterId"]]["profile"] = {}
 
