@@ -1,0 +1,103 @@
+id: 13003
+dev name: Hasumi_default
+
+
+### ------- INFO -------
+name: Hasumi
+rarity: SR : ★★☆☆☆
+
+school: Trinity
+club: "Justice"
+tags: "Trinity" :; "AllyMedium" :; "Main" :; "HeavyArmor" :; "Pierce" :; "Back" :; "SR" :; "Cover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: pierce
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 2256
+  max: 19560
+atk:
+  min: 342
+  max: 3426
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1395
+  max: 4186
+
+stability:
+  rate: 2000 : 20%
+  point: 2004
+
+critical:
+  crit point: 199
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 750
+regen: 700
+dodge: 199
+accuracy: 897
+
+environment:
+  street: B
+  indoor: B
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ハスミ
+
+  family name:
+    jp: 羽川 : ruby: はねかわ
+
+  full name:
+    jp: 羽川 ハスミ : ruby: はねかわ ハスミ
+
+status message:
+  jp: ダイエット中……
+
+age: 17
+height: 179
+school year: 3
+
+birthday:
+  day: 12
+  month: 12
+
+hobbies:
+  : "読書"
+  : "人間観察"
+
+introduction: [[
+トリニティ総合学園所属、正義実現委員会のNo.2。
+
+狂乱の象徴である委員長、ツルギの代わりに、正義実現委員会の戦術指揮官の役割も担当している。そのため一見、落ち着いていて知的という「これぞトリニティの生徒」という模範的な生徒にも見えるが、れっきとした正義実現委員会の一員である。
+誰よりも冷静に、時には無茶な行動をしたりもする。
+]]

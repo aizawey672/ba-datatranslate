@@ -1,0 +1,69 @@
+id: 7301309
+dev name: ChesedGoliath_Decagram_Vulcan_VeryHard
+
+
+### ------- INFO -------
+name: ChesedGoliath Decagram Vulcan VeryHard
+rarity: N - ★★★★★
+
+school: None
+club: "None"
+tags: ["EnemyLarge", "Decagram", "Goliath", "Automata"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: normal
+
+weapon: vulcan
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 5339
+  max: 53395
+atk:
+  min: 494
+  max: 4946
+def:
+  min: 15
+  max: 150
+heal:
+  min: 1
+  max: 1
+
+stability:
+  rate: 7500 - 75%
+  point: 300
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 - 200%
+
+  res point: 20
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 9999
+
+range: 725
+regen: 0
+dodge: 200
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

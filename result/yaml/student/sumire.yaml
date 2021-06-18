@@ -1,0 +1,103 @@
+id: 10012
+dev name: Sumire_default
+
+
+### ------- INFO -------
+name: Sumire
+rarity: SSR - ★★★☆☆
+
+school: Millennium
+club: "TrainingClub"
+tags: ["Millennium", "AllyMedium", "Main", "Unarmed", "Pierce", "Front", "SG", "Uncover", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Over_A"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: front
+
+armor: unarmed
+bullet: pierce
+
+weapon: SG
+aim ik: two_hand_right
+
+equipments: [hat, bag, charm]
+
+
+### ------- STATS -------
+hp:
+  min: 2268
+  max: 31460
+atk:
+  min: 189
+  max: 1894
+def:
+  min: 121
+  max: 726
+heal:
+  min: 1387
+  max: 4163
+
+stability:
+  rate: 2000 - 20%
+  point: 2016
+
+critical:
+  crit point: 198
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 450
+regen: 700
+dodge: 198
+accuracy: 594
+
+environment:
+  street: B
+  indoor: S
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: スミレ
+
+  family name:
+    jp: 乙花
+    jp ruby: おとはな
+
+  full name:
+    jp: 乙花 スミレ
+    jp ruby: おとはな スミレ
+
+status message:
+  jp: 健康な身体は健全な精神が宿る
+
+age: 16
+height: 167
+school year: 2
+
+birthday:
+  day: 20
+  month: 8
+
+hobbies:
+  - "トレーニング"
+  - "ガーデニング"
+
+introduction: |
+  ミレニアムサイエンススクール所属、トレーニング部のリーダー。
+
+  常にトレーニングに邁進するスポーツ系少女。世の中のすべての問題は筋肉と運動とで解決できると信じている脳筋少女でもある。

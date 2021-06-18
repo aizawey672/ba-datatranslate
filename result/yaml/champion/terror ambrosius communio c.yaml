@@ -1,0 +1,69 @@
+id: 7020313
+dev name: Terror_Ambrosius_Communio_C
+
+
+### ------- INFO -------
+name: Terror Ambrosius Communio C
+rarity: N
+
+school: None
+club: "None"
+tags: ["EnemyLarge"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: unarmed
+bullet: normal
+
+weapon: none
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 3726
+  max: 133680
+atk:
+  min: 643
+  max: 6432
+def:
+  min: 600
+  max: 3600
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 - 75%
+  point: 300
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 1
+
+range: 725
+regen: 0
+dodge: 80
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

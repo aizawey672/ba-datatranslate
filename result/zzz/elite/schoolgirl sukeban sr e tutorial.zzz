@@ -1,0 +1,69 @@
+id: 7900022
+dev name: SchoolGirl_Sukeban_SR_E_TUTORIAL
+
+
+### ------- INFO -------
+name: SchoolGirl Sukeban SR E TUTORIAL
+rarity: N
+
+school: None
+club: "None"
+tags: "EnemyMedium" :; "Sukeban"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: SR
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 540
+  max: 15360
+atk:
+  min: 341
+  max: 3417
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1528
+  max: 10700
+
+stability:
+  rate: 7500 : 75%
+  point: 500
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 800
+regen: 0
+dodge: 70
+accuracy: 900
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

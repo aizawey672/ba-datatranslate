@@ -1,0 +1,103 @@
+id: 23003
+dev name: Hare_default
+
+
+### ------- INFO -------
+name: Hare
+rarity: SR : ★★☆☆☆
+
+school: Millennium
+club: "Veritas"
+tags: "Millennium" :; "AllyMedium" :; "Support" :; "LightArmor" :; "Explosion" :; "AR" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B" :; "Uncover"
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: AR
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2204
+  max: 16468
+atk:
+  min: 192
+  max: 1927
+def:
+  min: 19
+  max: 117
+heal:
+  min: 1642
+  max: 4928
+
+stability:
+  rate: 2000 : 20%
+  point: 1573
+
+critical:
+  crit point: 204
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 30
+
+range: 1000
+regen: 700
+dodge: 816
+accuracy: 714
+
+environment:
+  street: A
+  indoor: B
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ハレ
+
+  family name:
+    jp: 小鈎 : ruby: おまがり
+
+  full name:
+    jp: 小鈎 ハレ : ruby: おまがり ハレ
+
+status message:
+  jp: 急な用件はDMで
+
+age: 16
+height: 153
+school year: 2
+
+birthday:
+  day: 19
+  month: 4
+
+hobbies:
+  : "ゲーム"
+  : "映画鑑賞"
+
+introduction: [[
+ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」のエンジニア。
+
+頭の良い人が多いことで有名なミレニアムにおいても頭一つ抜けている屈指の天才少女。ミレニアムで生み出される最先端の機器のほとんどは、彼女の手によって開発されている。
+しかしその実力や成果にも関わらず、自慢したり威張ったりすることなく、他の生徒たちとも交流し、良く話しを聞いてくれる優しい女の子である。
+]]

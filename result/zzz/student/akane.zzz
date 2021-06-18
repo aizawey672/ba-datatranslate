@@ -1,0 +1,102 @@
+id: 13000
+dev name: Akane_default
+
+
+### ------- INFO -------
+name: Akane
+rarity: SR : ★★☆☆☆
+
+school: Millennium
+club: "CleanNClearing"
+tags: "Millennium" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Pierce" :; "Middle" :; "HG" :; "Cover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: supporter
+position: middle
+
+armor: light_armor
+bullet: pierce
+
+weapon: HG
+aim ik: two_hand_right
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2208
+  max: 25590
+atk:
+  min: 98
+  max: 983
+def:
+  min: 19
+  max: 117
+heal:
+  min: 1425
+  max: 4276
+
+stability:
+  rate: 2000 : 20%
+  point: 980
+
+critical:
+  crit point: 203
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 6
+
+range: 550
+regen: 700
+dodge: 1119
+accuracy: 101
+
+environment:
+  street: A
+  indoor: D
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: アカネ
+
+  family name:
+    jp: 室笠 : ruby: むろかさ
+
+  full name:
+    jp: 室笠 アカネ : ruby: むろかさ アカネ
+
+status message:
+  jp: 温かい紅茶一杯分の余裕を
+
+age: 16
+height: 164
+school year: 2
+
+birthday:
+  day: 1
+  month: 4
+
+hobbies:
+  : "お掃除"
+
+introduction: [[
+ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント。
+
+コールサインは「ゼロスリー」で、「掃除」に特化した要員。
+柔らかい印象を武器に敵陣に潜入し、爆薬で全てを綺麗に掃除してしまうため、「掃除のプロフェッショナル」という二つ名で知られている。
+]]

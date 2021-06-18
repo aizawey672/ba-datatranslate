@@ -1,0 +1,69 @@
+id: 39000
+dev name: TSS_Tank01_CrusaderChan
+
+
+### ------- INFO -------
+name: TSS Tank01 CrusaderChan
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "None"
+tags: []
+
+
+### ------- STATUS -------
+type: tss
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: none
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 15000
+  max: 150000
+atk:
+  min: 30
+  max: 30
+def:
+  min: 30
+  max: 30
+heal:
+  min: 0
+  max: 0
+
+stability:
+  rate: 7500 - 75%
+  point: 0
+
+critical:
+  crit point: 100
+  crit dmg rate: 20000 - 200%
+
+  res point: 20
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 1
+
+range: 550
+regen: 0
+dodge: 1020
+accuracy: 1000
+
+environment:
+  street: D
+  indoor: D
+  outdoor: D

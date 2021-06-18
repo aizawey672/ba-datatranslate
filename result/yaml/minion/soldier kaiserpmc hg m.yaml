@@ -1,0 +1,69 @@
+id: 7000631
+dev name: Soldier_Kaiserpmc_HG_M
+
+
+### ------- INFO -------
+name: Soldier Kaiserpmc HG M
+rarity: N
+
+school: None
+club: "None"
+tags: ["EnemyMedium", "Kaiserpmc", "Helmet"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: HG
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 175
+  max: 13240
+atk:
+  min: 36
+  max: 366
+def:
+  min: 25
+  max: 150
+heal:
+  min: 2100
+  max: 6300
+
+stability:
+  rate: 7500 - 75%
+  point: 250
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 15
+
+range: 500
+regen: 0
+dodge: 275
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

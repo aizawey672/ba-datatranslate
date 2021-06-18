@@ -1,0 +1,69 @@
+id: 7020023
+dev name: Terror_Nun_Yustina_SR_C
+
+
+### ------- INFO -------
+name: Terror Nun Yustina SR C
+rarity: N
+
+school: None
+club: "None"
+tags: ["EnemyMedium"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: unarmed
+bullet: normal
+
+weapon: SR
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 2700
+  max: 87800
+atk:
+  min: 495
+  max: 4952
+def:
+  min: 25
+  max: 150
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 - 75%
+  point: 500
+
+critical:
+  crit point: 500
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 800
+regen: 0
+dodge: 100
+accuracy: 900
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

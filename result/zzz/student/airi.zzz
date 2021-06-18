@@ -1,0 +1,103 @@
+id: 23000
+dev name: Airi_default
+
+
+### ------- INFO -------
+name: Airi
+rarity: SR : ★★☆☆☆
+
+school: Trinity
+club: "HoukagoDessert"
+tags: "Trinity" :; "AllyMedium" :; "Support" :; "LightArmor" :; "Explosion" :; "SMG" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Over_A" :; "Uncover"
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: SMG
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2256
+  max: 16859
+atk:
+  min: 167
+  max: 1674
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1605
+  max: 4815
+
+stability:
+  rate: 2000 : 20%
+  point: 1615
+
+critical:
+  crit point: 199
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 4
+
+range: 1000
+regen: 700
+dodge: 1196
+accuracy: 99
+
+environment:
+  street: A
+  indoor: A
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: アイリ
+
+  family name:
+    jp: 栗村 : ruby: くりむら
+
+  full name:
+    jp: 栗村 アイリ : ruby: くりむら アイリ
+
+status message:
+  jp: チョコミントは最高！
+
+age: 15
+height: 160
+school year: 1
+
+birthday:
+  day: 30
+  month: 1
+
+hobbies:
+  : "美味しいスイーツ探し"
+  : "お茶会"
+
+introduction: [[
+トリニティ総合学園所属、放課後スイーツ部の朗らかな部員。
+
+ゆったりとした性格の持ち主で、友達とスイーツを食べながらおしゃべりをする時間を何より大切にしている。
+好きなものはアイスクリームで、最近はチョコミント味にハマっている。
+]]

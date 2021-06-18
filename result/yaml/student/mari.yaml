@@ -1,0 +1,69 @@
+id: 29003
+dev name: Mari_default
+
+
+### ------- INFO -------
+name: Mari
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "SisterHood"
+tags: ["Trinity"]
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: light_armor
+bullet: mystic
+
+weapon: HG
+aim ik: none
+
+equipments: [hat, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2250
+  max: 32626
+atk:
+  min: 140
+  max: 1400
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1757
+  max: 12305
+
+stability:
+  rate: 2000 - 20%
+  point: 1150
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 1000
+regen: 700
+dodge: 1100
+accuracy: 100
+
+environment:
+  street: A
+  indoor: A
+  outdoor: C

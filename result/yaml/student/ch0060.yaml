@@ -1,0 +1,69 @@
+id: 19009
+dev name: CH0060
+
+
+### ------- INFO -------
+name: CH0060
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "Justice"
+tags: ["Trinity", "AllyMedium"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: front
+
+armor: heavy_armor
+bullet: pierce
+
+weapon: SG
+aim ik: dual
+
+equipments: [gloves, bag, charm]
+
+
+### ------- STATS -------
+hp:
+  min: 2250
+  max: 18290
+atk:
+  min: 324
+  max: 3249
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1528
+  max: 10700
+
+stability:
+  rate: 2000 - 20%
+  point: 2000
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 2
+  count: 4
+
+range: 450
+regen: 700
+dodge: 200
+accuracy: 900
+
+environment:
+  street: B
+  indoor: A
+  outdoor: B

@@ -1,0 +1,69 @@
+id: 29009
+dev name: Nao_default
+
+
+### ------- INFO -------
+name: Nao
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "None"
+tags: ["Trinity"]
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: HG
+aim ik: none
+
+equipments: [gloves, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2303
+  max: 28405
+atk:
+  min: 192
+  max: 1929
+def:
+  min: 20
+  max: 122
+heal:
+  min: 1715
+  max: 12011
+
+stability:
+  rate: 2000 - 20%
+  point: 1173
+
+critical:
+  crit point: 195
+  crit dmg rate: 20000 - 200%
+
+  res point: 20
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 20
+
+range: 1000
+regen: 700
+dodge: 1073
+accuracy: 97
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

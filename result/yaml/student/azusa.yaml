@@ -1,0 +1,102 @@
+id: 10019
+dev name: Azusa_default
+
+
+### ------- INFO -------
+name: Azusa
+rarity: SSR - ★★★☆☆
+
+school: Trinity
+club: "RemedialClass"
+tags: ["Trinity", "AllyMedium", "Main", "HeavyArmor", "Explosion", "Middle", "AR", "Cover", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Over_A"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: [gloves, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2228
+  max: 22280
+atk:
+  min: 189
+  max: 1894
+def:
+  min: 19
+  max: 118
+heal:
+  min: 1413
+  max: 4240
+
+stability:
+  rate: 2000 - 20%
+  point: 1384
+
+critical:
+  crit point: 201
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 15
+
+range: 650
+regen: 700
+dodge: 792
+accuracy: 706
+
+environment:
+  street: B
+  indoor: S
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: アズサ
+
+  family name:
+    jp: 白洲
+    jp ruby: しらす
+
+  full name:
+    jp: 白洲 アズサ
+    jp ruby: しらす アズサ
+
+status message:
+  jp: et omnia vanitas
+
+age: 16
+height: 149
+school year: 2
+
+birthday:
+  day: 26
+  month: 12
+
+hobbies:
+  - "なし"
+
+introduction: |
+  トリニティ総合学園所属、補習授業部の氷の魔女。
+
+  本来はある学校を中退した身だったが、諸事情でトリニティへと通うことになり、再び学業に勤しんでいる。性根は寂しがり屋だが、他の人に迷惑をかけることを恐れて自発的に距離を置いており、補習授業部の他の生徒たちから心配されている。

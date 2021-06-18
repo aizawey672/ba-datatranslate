@@ -1,0 +1,103 @@
+id: 13011
+dev name: Momoi_default
+
+
+### ------- INFO -------
+name: Momoi
+rarity: SR - ★★☆☆☆
+
+school: Millennium
+club: "GameDev"
+tags: ["Millennium", "AllyMedium", "Main", "LightArmor", "Pierce", "Middle", "AR", "Cover", "StreetBattle_Over_A", "OutdoorBattle_Over_A", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: light_armor
+bullet: pierce
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: [shoes, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2310
+  max: 23100
+atk:
+  min: 211
+  max: 2118
+def:
+  min: 20
+  max: 123
+heal:
+  min: 1362
+  max: 4086
+
+stability:
+  rate: 2000 - 20%
+  point: 1436
+
+critical:
+  crit point: 194
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 650
+regen: 700
+dodge: 821
+accuracy: 681
+
+environment:
+  street: A
+  indoor: D
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: モモイ
+
+  family name:
+    jp: 才羽
+    jp ruby: さいば
+
+  full name:
+    jp: 才羽 モモイ
+    jp ruby: さいば モモイ
+
+status message:
+  jp: ゲーム一筋！
+
+age: 15
+height: 143
+school year: 1
+
+birthday:
+  day: 8
+  month: 12
+
+hobbies:
+  - "ゲーム"
+
+introduction: |
+  ミレニアムサイエンススクール所属、ゲーム開発部のシナリオライター。
+
+  双子の妹、ミドリと共にゲーム開発部で文字通りゲームを開発している少女。
+  陽気な性格もあって、もともと内気な妹とは相性が良くない方だったが、ゲームに対する情熱で意気投合し、今では大の仲良しになった。

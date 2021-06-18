@@ -1,0 +1,105 @@
+id: 23006
+dev name: Shizuko_default
+
+
+### ------- INFO -------
+name: Shizuko
+rarity: SR : ★★☆☆☆
+
+school: Hyakkiyako
+club: "MatsuriOffice"
+tags: "Hyakkiyako" :; "AllyMedium" :; "Support" :; "Unarmed" :; "Mystic" :; "SG" :; "StreetBattle_Over_A" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B" :; "Uncover"
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: unarmed
+bullet: mystic
+
+weapon: SG
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2239
+  max: 32465
+atk:
+  min: 168
+  max: 1687
+def:
+  min: 119
+  max: 716
+heal:
+  min: 1617
+  max: 4853
+
+stability:
+  rate: 2000 : 20%
+  point: 2286
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 1000
+regen: 700
+dodge: 200
+accuracy: 602
+
+environment:
+  street: A
+  indoor: B
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: シズコ
+
+  family name:
+    jp: 河和 : ruby: かわわ
+
+  full name:
+    jp: 河和 シズコ : ruby: かわわ シズコ
+
+status message:
+  jp: 百夜堂、今日も元気に営業中！
+
+age: 16
+height: 153
+school year: 2
+
+birthday:
+  day: 7
+  month: 7
+
+hobbies:
+  : "可愛く接客すること"
+  : "看板娘パンチ "
+
+introduction: [[
+百鬼夜行連合学院所属、お祭り運営委員会の委員長。
+
+同時に、伝統的な喫茶店「百夜堂」の看板娘兼オーナーでもある。
+普段は「百夜堂で働いているドジっ子な女の子」だが、それはあくまでも看板娘としての一面に過ぎない。
+実際はお祭りの成功と百夜堂の売上のためなら何でも成し遂げてみせる、プロフェッショナル気質な少女。
+ただし油断すると感情表現が素直に出てしまうため、親しい友人はもちろん、先生にも全てバレてしまっている。
+]]

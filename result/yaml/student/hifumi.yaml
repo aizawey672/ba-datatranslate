@@ -1,0 +1,106 @@
+id: 10003
+dev name: Hihumi_default
+
+
+### ------- INFO -------
+name: Hifumi
+rarity: SSR - ★★★☆☆
+
+school: Trinity
+club: "RemedialClass"
+tags: ["Trinity", "AllyMedium", "Main", "LightArmor", "Pierce", "Middle", "AR", "Cover", "StreetBattle_Under_B", "OutdoorBattle_Over_A", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: supporter
+position: middle
+
+armor: light_armor
+bullet: pierce
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2250
+  max: 22500
+atk:
+  min: 195
+  max: 1953
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1399
+  max: 4199
+
+stability:
+  rate: 2000 - 20%
+  point: 1400
+
+critical:
+  crit point: 199
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 650
+regen: 700
+dodge: 799
+accuracy: 699
+
+environment:
+  street: D
+  indoor: B
+  outdoor: S
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ヒフミ
+
+  family name:
+    jp: 阿慈谷
+    jp ruby: あじたに
+
+  full name:
+    jp: 阿慈谷 ヒフミ
+    jp ruby: あじたに ヒフミ
+
+status message:
+  jp: ペロロフェスに一緒に行ってくれる人いますか？
+
+age: 16
+height: 158
+school year: 2
+
+birthday:
+  day: 27
+  month: 11
+
+hobbies:
+  - "ペロログッズ集め"
+  - "可愛いもの集め"
+  - "ショッピング"
+  - "相談に乗ること"
+
+introduction: |
+  トリニティ総合学園所属、補習授業部の多情多感な少女。
+
+  外見も成績も普通だが、穏やかで優しい性格なため周囲から人気がある。
+  周りの人々の悩みや話をよく聞いてくれるものの、そのせいで雰囲気に流されてしまい、意図せずトラブルを起こしてしまうこともある。

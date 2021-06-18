@@ -1,0 +1,104 @@
+id: 10013
+dev name: Tsurugi_default
+
+
+### ------- INFO -------
+name: Tsurugi
+rarity: SSR - ★★★☆☆
+
+school: Trinity
+club: "Justice"
+tags: ["Trinity", "AllyMedium", "Main", "HeavyArmor", "Pierce", "Front", "SG", "Uncover", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Over_A"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: front
+
+armor: heavy_armor
+bullet: pierce
+
+weapon: SG
+aim ik: dual
+
+equipments: [gloves, bag, charm]
+
+
+### ------- STATS -------
+hp:
+  min: 2568
+  max: 35590
+atk:
+  min: 386
+  max: 3864
+def:
+  min: 138
+  max: 832
+heal:
+  min: 1361
+  max: 4085
+
+stability:
+  rate: 2000 - 20%
+  point: 2052
+
+critical:
+  crit point: 243
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 2
+  count: 4
+
+range: 450
+regen: 700
+dodge: 175
+accuracy: 642
+
+environment:
+  street: D
+  indoor: S
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ツルギ
+
+  family name:
+    jp: 剣先
+    jp ruby: けんざき
+
+  full name:
+    jp: 剣先 ツルギ
+    jp ruby: けんざき ツルギ
+
+status message:
+  jp: ……
+
+age: 17
+height: 162
+school year: 3
+
+birthday:
+  day: 24
+  month: 6
+
+hobbies:
+  - "映画鑑賞"
+  - "読書（恋愛小説）"
+
+introduction: |
+  トリニティ総合学園所属、正義実現委員会の委員長でありトリニティの戦略兵器。
+
+  好戦的で暴力的な性格であり、気に入らないものがあったらとりあえず壊してから考えるタイプ。
+  副委員長であるハスミのお陰で正義実現委員会は辛うじて統制されている。制御不能の狂犬であるツルギだが、先生の前では気恥ずかしさを隠し切れない少女のような一面も見せる。

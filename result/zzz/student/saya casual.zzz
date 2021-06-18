@@ -1,0 +1,69 @@
+id: 29006
+dev name: Saya_Casual
+
+
+### ------- INFO -------
+name: Saya Casual
+rarity: R : ★☆☆☆☆
+
+school: Shanhaijing
+club: "IndeShanhaijing"
+tags: "Shanhaijing"
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: unarmed
+bullet: normal
+
+weapon: HG
+aim ik: none
+
+equipments: hat :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2250
+  max: 32626
+atk:
+  min: 197
+  max: 1976
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1757
+  max: 12305
+
+stability:
+  rate: 2000 : 20%
+  point: 1150
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 15
+
+range: 1000
+regen: 700
+dodge: 1100
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

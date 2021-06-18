@@ -1,0 +1,104 @@
+id: 10017
+dev name: Cherino_default
+
+
+### ------- INFO -------
+name: Cherino
+rarity: SSR - ★★★☆☆
+
+school: RedWinter
+club: "RedwinterSecretary"
+tags: ["RedWinter", "AllyMedium", "Main", "LightArmor", "Pierce", "Middle", "HG", "Cover", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: light_armor
+bullet: pierce
+
+weapon: HG
+aim ik: one_hand_left
+
+equipments: [shoes, badge, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2211
+  max: 25620
+atk:
+  min: 172
+  max: 1727
+def:
+  min: 19
+  max: 117
+heal:
+  min: 1423
+  max: 4270
+
+stability:
+  rate: 2000 - 20%
+  point: 980
+
+critical:
+  crit point: 203
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 6
+
+range: 550
+regen: 700
+dodge: 1081
+accuracy: 101
+
+environment:
+  street: B
+  indoor: D
+  outdoor: S
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: チェリノ
+
+  family name:
+    jp: 連河
+    jp ruby: れんかわ
+
+  full name:
+    jp: 連河 チェリノ
+    jp ruby: れんかわ チェリノ
+
+status message:
+  jp: このヒゲを見よ！！
+
+age: null   # ??
+height: 128
+school year: 3
+
+birthday:
+  day: 27
+  month: 10
+
+hobbies:
+  - "粛清"
+  - "雪合戦"
+
+introduction: |
+  レッドウィンター連邦学園所属、横暴で子供っぽい生徒会長。
+
+  権力への執着と欲求が非常に強く、毎週のように革命によって失脚させられるものの、その度どうにかして生徒会長の座に復帰することを繰り返す。
+  その付けヒゲはチェリノ曰く「権威の象徴」であり、「権威というものはヒゲから出るものだ」とのこと。

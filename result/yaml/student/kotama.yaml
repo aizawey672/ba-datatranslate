@@ -1,0 +1,105 @@
+id: 26001
+dev name: Kotama_default
+
+
+### ------- INFO -------
+name: Kotama
+rarity: R - ★☆☆☆☆
+
+school: Millennium
+club: "Veritas"
+tags: ["Millennium", "AllyMedium", "Support", "LightArmor", "Explosion", "HG", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Under_B", "Uncover"]
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: HG
+aim ik: none
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2245
+  max: 16790
+atk:
+  min: 140
+  max: 1402
+def:
+  min: 19
+  max: 119
+heal:
+  min: 1612
+  max: 4838
+
+stability:
+  rate: 2000 - 20%
+  point: 1145
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 15
+
+range: 1000
+regen: 700
+dodge: 1101
+accuracy: 100
+
+environment:
+  street: A
+  indoor: B
+  outdoor: C
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: コタマ
+
+  family name:
+    jp: 音瀬
+    jp ruby: おとせ
+
+  full name:
+    jp: 音瀬 コタマ
+    jp ruby: おとせ コタマ
+
+status message:
+  jp: あなたを見守っています
+
+age: 17
+height: 158
+school year: 3
+
+birthday:
+  day: 5
+  month: 1
+
+hobbies:
+  - "無線通信"
+  - "盗聴"
+
+introduction: |
+  ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」のハッカー。
+
+  特技は盗聴、他人の秘密話を盗み聞きすることを好むちょっと変わった少女。
+  対人関係は苦手な方で、基本的に歳下の1年生にもつい敬語を使ってしまうタイプ。
+  現実では内気で口数の少ない子だが、ネット上では非常によくしゃべる。

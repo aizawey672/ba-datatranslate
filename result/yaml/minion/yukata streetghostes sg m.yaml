@@ -1,0 +1,69 @@
+id: 7000901
+dev name: Yukata_StreetGhostes_SG_M
+
+
+### ------- INFO -------
+name: Yukata StreetGhostes SG M
+rarity: N
+
+school: None
+club: "None"
+tags: ["EnemyMedium"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: SG
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 210
+  max: 21050
+atk:
+  min: 66
+  max: 666
+def:
+  min: 180
+  max: 1080
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 - 75%
+  point: 500
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 350
+regen: 0
+dodge: 60
+accuracy: 600
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

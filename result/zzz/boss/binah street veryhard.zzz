@@ -1,0 +1,69 @@
+id: 7400300
+dev name: Binah_Street_VeryHard
+
+
+### ------- INFO -------
+name: Binah Street VeryHard
+rarity: N
+
+school: None
+club: "None"
+tags: "EnemyXLarge" :; "Decagram" :; "Automata"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: normal
+
+weapon: binah
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 1100000
+  max: 1100000
+atk:
+  min: 3000
+  max: 3000
+def:
+  min: 2500
+  max: 2500
+heal:
+  min: 100
+  max: 10000
+
+stability:
+  rate: 7500 : 75%
+  point: 300
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 : 200%
+
+  res point: 20
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 1
+
+range: 3000
+regen: 0
+dodge: 100
+accuracy: 1300
+
+environment:
+  street: D
+  indoor: D
+  outdoor: D

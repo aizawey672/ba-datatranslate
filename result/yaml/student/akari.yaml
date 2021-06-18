@@ -1,0 +1,103 @@
+id: 13002
+dev name: Akari_default
+
+
+### ------- INFO -------
+name: Akari
+rarity: SR - ★★☆☆☆
+
+school: Gehenna
+club: "GourmetClub"
+tags: ["Gehenna", "AllyMedium", "Main", "HeavyArmor", "Explosion", "Middle", "AR", "Cover", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: [hat, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2252
+  max: 22530
+atk:
+  min: 275
+  max: 2754
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1397
+  max: 4193
+
+stability:
+  rate: 2000 - 20%
+  point: 1400
+
+critical:
+  crit point: 199
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 650
+regen: 700
+dodge: 798
+accuracy: 698
+
+environment:
+  street: A
+  indoor: B
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: アカリ
+
+  family name:
+    jp: 鰐渕
+    jp ruby: わにぶち
+
+  full name:
+    jp: 鰐渕 アカリ
+    jp ruby: わにぶち アカリ
+
+status message:
+  jp: おすすめの食べ放題を教えてください
+
+age: 17
+height: 167
+school year: 3
+
+birthday:
+  day: 9
+  month: 12
+
+hobbies:
+  - "大食い"
+
+introduction: |
+  ゲヘナ学園所属、美食研究会の部員。
+
+  大人しい少女かと思いきや、キヴォトスの大食い大会で常にチャンピオンの座に座り続けるフードファイター。
+  基本的には穏やかで善良な性格だが、ゲヘナ学園の生徒らしく時には他人をひどい目にあわせることも辞さない一面も持ち合わせている。

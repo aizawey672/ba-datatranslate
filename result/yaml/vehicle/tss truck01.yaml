@@ -1,0 +1,69 @@
+id: 39004
+dev name: TSS_Truck01
+
+
+### ------- INFO -------
+name: TSS Truck01
+rarity: R - ★☆☆☆☆
+
+school: Gehenna
+club: "None"
+tags: []
+
+
+### ------- STATUS -------
+type: tss
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: none
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 50000
+  max: 500000
+atk:
+  min: 90
+  max: 90
+def:
+  min: 0
+  max: 0
+heal:
+  min: 0
+  max: 0
+
+stability:
+  rate: 7500 - 75%
+  point: 0
+
+critical:
+  crit point: 100
+  crit dmg rate: 20000 - 200%
+
+  res point: 20
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 1
+
+range: 550
+regen: 0
+dodge: 1020
+accuracy: 1000
+
+environment:
+  street: D
+  indoor: D
+  outdoor: D

@@ -1,0 +1,105 @@
+id: 26005
+dev name: Yoshimi_default
+
+
+### ------- INFO -------
+name: Yoshimi
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "HoukagoDessert"
+tags: ["Trinity", "AllyMedium", "Support", "HeavyArmor", "Pierce", "AR", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Under_B", "Uncover"]
+
+
+### ------- STATUS -------
+type: special
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: pierce
+
+weapon: AR
+aim ik: none
+
+equipments: [hat, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2232
+  max: 16675
+atk:
+  min: 268
+  max: 2689
+def:
+  min: 19
+  max: 119
+heal:
+  min: 1622
+  max: 4868
+
+stability:
+  rate: 2000 - 20%
+  point: 1596
+
+critical:
+  crit point: 201
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 20
+
+range: 1000
+regen: 700
+dodge: 806
+accuracy: 705
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ヨシミ
+
+  family name:
+    jp: 伊原木
+    jp ruby: いばらぎ
+
+  full name:
+    jp: 伊原木 ヨシミ
+    jp ruby: いばらぎ ヨシミ
+
+status message:
+  jp: #まだ成長期
+
+age: 15
+height: 146
+school year: 1
+
+birthday:
+  day: 29
+  month: 8
+
+hobbies:
+  - "イベントごと"
+  - "限定スイーツ巡り"
+
+introduction: |
+  トリニティ総合学園所属、放課後スイーツ部の部員。
+
+  身長と体型がコンプレックスの、常に威嚇しっぱなしの小動物のような少女。
+  常に大人っぽくなりたいと思っているが、考えていることが顔にそのまま表れてしまうため、周囲からはいつまでも可愛がられている。
+  趣味のカフェ巡りをしながら、限定スイーツを味わう時だけは誰よりも明るい笑みを見せる。

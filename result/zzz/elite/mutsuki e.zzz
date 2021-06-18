@@ -1,0 +1,69 @@
+id: 7050202
+dev name: Mutsuki_default_E
+
+
+### ------- INFO -------
+name: Mutsuki E
+rarity: N : ☆☆☆☆☆
+
+school: Gehenna
+club: "Kohshinjo68"
+tags: "Gehenna" :; "EnemyMedium"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: hat :; bag :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 540
+  max: 17550
+atk:
+  min: 152
+  max: 1527
+def:
+  min: 80
+  max: 480
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 : 75%
+  point: 350
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 45
+
+range: 700
+regen: 0
+dodge: 70
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

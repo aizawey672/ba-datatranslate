@@ -1,0 +1,104 @@
+id: 10004
+dev name: Hina_default
+
+
+### ------- INFO -------
+name: Hina
+rarity: SSR : ★★★☆☆
+
+school: Gehenna
+club: "Fuuki"
+tags: "Gehenna" :; "AllyMedium" :; "Main" :; "HeavyArmor" :; "Explosion" :; "Back" :; "MG" :; "Uncover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 2258
+  max: 19570
+atk:
+  min: 254
+  max: 2545
+def:
+  min: 80
+  max: 481
+heal:
+  min: 1394
+  max: 4184
+
+stability:
+  rate: 2000 : 20%
+  point: 1404
+
+critical:
+  crit point: 199
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 7
+  count: 49
+
+range: 750
+regen: 700
+dodge: 199
+accuracy: 99
+
+environment:
+  street: S
+  indoor: C
+  outdoor: C
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ヒナ
+
+  family name:
+    jp: 空崎 : ruby: そらさき
+
+  full name:
+    jp: 空崎 ヒナ : ruby: そらさき ヒナ
+
+status message:
+  jp: 
+
+age: 17
+height: 142
+school year: 3
+
+birthday:
+  day: 19
+  month: 2
+
+hobbies:
+  : "睡眠"
+  : "休憩"
+
+introduction: [[
+ゲヘナ学園所属、誰もが恐れる風紀委員長。
+
+基本的には面倒くさがり屋さんなのだが、校則の話になると途端に厳しくなる。
+口では「面倒」と言いつつ、戦場では迷うことなく冷静で素早い判断をして行動する。
+その戦闘力は驚異的であり、そのためゲヘナに敵対する組織は彼女の登場を何よりも恐れている。
+]]

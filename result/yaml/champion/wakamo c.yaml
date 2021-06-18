@@ -1,0 +1,69 @@
+id: 7050423
+dev name: Wakamo_default_C
+
+
+### ------- INFO -------
+name: Wakamo C
+rarity: N - ☆☆☆☆☆
+
+school: Hyakkiyako
+club: "IndeHyakkiyako"
+tags: ["Hyakkiyako", "EnemyMedium"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: [hat, hairpin]
+
+
+### ------- STATS -------
+hp:
+  min: 50000
+  max: 1417500
+atk:
+  min: 101
+  max: 6350
+def:
+  min: 16
+  max: 320
+heal:
+  min: 428
+  max: 3000
+
+stability:
+  rate: 7500 - 75%
+  point: 500
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 800
+regen: 0
+dodge: 200
+accuracy: 800
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

@@ -1,0 +1,69 @@
+id: 7020113
+dev name: Terror_GasMask_Arius_GL_C
+
+
+### ------- INFO -------
+name: Terror GasMask Arius GL C
+rarity: N
+
+school: None
+club: "None"
+tags: "EnemyMedium" :; "Arius"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: unarmed
+bullet: normal
+
+weapon: GL
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 4050
+  max: 187650
+atk:
+  min: 231
+  max: 2316
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 2000 : 20%
+  point: 250
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 9
+
+range: 550
+regen: 0
+dodge: 100
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

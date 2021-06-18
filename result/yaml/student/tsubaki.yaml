@@ -1,0 +1,105 @@
+id: 13009
+dev name: Tsubaki_default
+
+
+### ------- INFO -------
+name: Tsubaki
+rarity: SR - ★★☆☆☆
+
+school: Hyakkiyako
+club: "Shugyobu"
+tags: ["Hyakkiyako", "AllyMedium", "Main", "Unarmed", "Pierce", "Front", "SMG", "Uncover", "StreetBattle_Over_A", "OutdoorBattle_Over_A", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: tanker
+position: front
+
+armor: unarmed
+bullet: pierce
+
+weapon: SMG
+aim ik: one_hand_right
+
+equipments: [shoes, bag, charm]
+
+
+### ------- STATS -------
+hp:
+  min: 3048
+  max: 50940
+atk:
+  min: 171
+  max: 1719
+def:
+  min: 30
+  max: 182
+heal:
+  min: 1377
+  max: 4132
+
+stability:
+  rate: 2000 - 20%
+  point: 1420
+
+critical:
+  crit point: 196
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 9
+
+range: 350
+regen: 700
+dodge: 1416
+accuracy: 98
+
+environment:
+  street: A
+  indoor: D
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ツバキ
+
+  family name:
+    jp: 春日
+    jp ruby: かすが
+
+  full name:
+    jp: 春日 ツバキ
+    jp ruby: かすが ツバキ
+
+status message:
+  jp: 眠い……
+
+age: 16
+height: 162
+school year: 2
+
+birthday:
+  day: 3
+  month: 2
+
+hobbies:
+  - "昼寝"
+
+introduction: |
+  百鬼夜行連合学院所属、修行部の部長。
+
+  「より安らかで完璧な睡眠」を目指して常に修行している。
+  その極めっぷりや、座っていても立っていても、さらにはご飯を食べながらも寝ることができるほどである。
+  ついた二つ名は「眠り姫」。
+  いつもうとうとしているが、夜になると街を守るために密かに暗躍する。

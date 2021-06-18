@@ -1,0 +1,103 @@
+id: 13004
+dev name: Nonomi_default
+
+
+### ------- INFO -------
+name: Nonomi
+rarity: SR - ★★☆☆☆
+
+school: Abydos
+club: "Countermeasure"
+tags: ["Abydos", "AllyMedium", "Main", "LightArmor", "Pierce", "Back", "MG", "Uncover", "StreetBattle_Over_A", "OutdoorBattle_Over_A", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: pierce
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: [hat, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2264
+  max: 19630
+atk:
+  min: 263
+  max: 2631
+def:
+  min: 80
+  max: 483
+heal:
+  min: 1390
+  max: 4172
+
+stability:
+  rate: 2000 - 20%
+  point: 1408
+
+critical:
+  crit point: 198
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 5
+  count: 50
+
+range: 750
+regen: 700
+dodge: 198
+accuracy: 99
+
+environment:
+  street: A
+  indoor: D
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ノノミ
+
+  family name:
+    jp: 十六夜
+    jp ruby: いざよい
+
+  full name:
+    jp: 十六夜 ノノミ
+    jp ruby: いざよい ノノミ
+
+status message:
+  jp: 楽しい一日になりますように
+
+age: 16
+height: 160
+school year: 2
+
+birthday:
+  day: 1
+  month: 9
+
+hobbies:
+  - "ショッピング"
+
+introduction: |
+  アビドス高等学校所属、アビドス対策委員会のメンバー。
+
+  感情豊かで優しい性格をしており、極端な性格の持ち主が多い対策委員会のメンバーをまとめる精神的な支えとしての役割を担っている。
+  表向きにはあまり明らかにしていないがお金持ちの令嬢で、対策委員会のおやつ代はほとんど彼女のお小遣いから出ている。

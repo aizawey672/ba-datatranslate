@@ -1,0 +1,102 @@
+id: 23007
+dev name: Hanako_default
+
+
+### ------- INFO -------
+name: Hanako
+rarity: SR : ★★☆☆☆
+
+school: Trinity
+club: "RemedialClass"
+tags: "Trinity" :; "AllyMedium" :; "Support" :; "Unarmed" :; "Pierce" :; "AR" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Over_A" :; "Uncover"
+
+
+### ------- STATUS -------
+type: special
+role: healer
+position: back
+
+armor: unarmed
+bullet: pierce
+
+weapon: AR
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2531
+  max: 18918
+atk:
+  min: 164
+  max: 1646
+def:
+  min: 25
+  max: 151
+heal:
+  min: 2384
+  max: 7154
+
+stability:
+  rate: 2000 : 20%
+  point: 1628
+
+critical:
+  crit point: 197
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 1000
+regen: 700
+dodge: 809
+accuracy: 691
+
+environment:
+  street: A
+  indoor: A
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ハナコ
+
+  family name:
+    jp: 浦和 : ruby: うらわ
+
+  full name:
+    jp: 浦和 ハナコ : ruby: うらわ ハナコ
+
+status message:
+  jp: 「色々」と嗜むタイプです♪
+
+age: 16
+height: 161
+school year: 2
+
+birthday:
+  day: 3
+  month: 1
+
+hobbies:
+  : "徘徊"
+
+introduction: [[
+トリニティ総合学園所属、補習授業部の感性豊かな女の子。
+
+一見するとお淑やかで気品のあるお嬢さん……といった感じだが、実は口を開くと性的な言葉が止まらない問題児。
+それを知っている補習授業部の部員たちは、ハナコが何かを言おうとするたびに気が気でない様子。
+]]

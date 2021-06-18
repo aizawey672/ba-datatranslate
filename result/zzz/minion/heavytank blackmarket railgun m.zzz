@@ -1,0 +1,69 @@
+id: 7010531
+dev name: HeavyTank_Blackmarket_Railgun_M
+
+
+### ------- INFO -------
+name: HeavyTank Blackmarket Railgun M
+rarity: N
+
+school: None
+club: "None"
+tags: "EnemyLarge" :; "Blackmarket" :; "BlackmarketHeavyArmor"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: normal
+
+weapon: cannon
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 230
+  max: 11080
+atk:
+  min: 231
+  max: 2317
+def:
+  min: 250
+  max: 1500
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 : 75%
+  point: 300
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 1
+
+range: 850
+regen: 0
+dodge: 50
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

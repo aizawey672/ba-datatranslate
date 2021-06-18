@@ -1,0 +1,102 @@
+id: 16001
+dev name: Asuna_default
+
+
+### ------- INFO -------
+name: Asuna
+rarity: R : ★☆☆☆☆
+
+school: Millennium
+club: "CleanNClearing"
+tags: "Millennium" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Mystic" :; "Middle" :; "AR" :; "Cover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: light_armor
+bullet: mystic
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: gloves :; hairpin :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 2309
+  max: 23090
+atk:
+  min: 266
+  max: 2661
+def:
+  min: 20
+  max: 123
+heal:
+  min: 1362
+  max: 4088
+
+stability:
+  rate: 2000 : 20%
+  point: 1436
+
+critical:
+  crit point: 243
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 650
+regen: 700
+dodge: 778
+accuracy: 681
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: アスナ
+
+  family name:
+    jp: 一之瀬 : ruby: いちのせ
+
+  full name:
+    jp: 一之瀬 アスナ : ruby: いちのせ アスナ
+
+status message:
+  jp: 最高の奉仕をご主人様に！
+
+age: 17
+height: 167
+school year: 3
+
+birthday:
+  day: 24
+  month: 3
+
+hobbies:
+  : "襲撃"
+
+introduction: [[
+ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント。
+
+コールサインは「ゼロワン」で、卓越した動物的な感覚と直感とで数々の難関を乗り越えてきたベテランである。
+任務中、勝手に人を信じて正体を明かしたり、疑わしいものは全て壊してしまうなど、理解し難い行動も多々あるが、最終的にはきちんと成果を収める。
+]]

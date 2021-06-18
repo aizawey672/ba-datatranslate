@@ -1,0 +1,69 @@
+id: 19002
+dev name: CH0063
+
+
+### ------- INFO -------
+name: CH0063
+rarity: R : ★☆☆☆☆
+
+school: Gehenna
+club: "RemedialClass"
+tags: "Gehenna"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: unarmed
+bullet: pierce
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: hat :; badge :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2250
+  max: 24120
+atk:
+  min: 132
+  max: 1329
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1528
+  max: 10700
+
+stability:
+  rate: 2000 : 20%
+  point: 1400
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 15
+
+range: 650
+regen: 700
+dodge: 800
+accuracy: 700
+
+environment:
+  street: B
+  indoor: D
+  outdoor: S

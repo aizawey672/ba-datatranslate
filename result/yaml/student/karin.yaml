@@ -1,0 +1,103 @@
+id: 20001
+dev name: karin_default
+
+
+### ------- INFO -------
+name: karin
+rarity: SSR - ★★★☆☆
+
+school: Millennium
+club: "CleanNClearing"
+tags: ["Millennium", "AllyMedium", "Support", "HeavyArmor", "Pierce", "SR", "StreetBattle_Under_B", "OutdoorBattle_Over_A", "IndoorBattle_Under_B", "Uncover"]
+
+
+### ------- STATUS -------
+type: special
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: pierce
+
+weapon: SR
+aim ik: none
+
+equipments: [hat, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2314
+  max: 17308
+atk:
+  min: 276
+  max: 2762
+def:
+  min: 20
+  max: 123
+heal:
+  min: 1563
+  max: 4689
+
+stability:
+  rate: 2000 - 20%
+  point: 2364
+
+critical:
+  crit point: 194
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 1000
+regen: 700
+dodge: 194
+accuracy: 873
+
+environment:
+  street: D
+  indoor: B
+  outdoor: S
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: カリン
+
+  family name:
+    jp: 角楯
+    jp ruby: かくだて
+
+  full name:
+    jp: 角楯 カリン
+    jp ruby: かくだて カリン
+
+status message:
+  jp: ターゲットは逃がさない
+
+age: 16
+height: 170
+school year: 2
+
+birthday:
+  day: 2
+  month: 2
+
+hobbies:
+  - "お掃除"
+
+introduction: |
+  ミレニアムサイエンススクール所属、秘密組織「C&C」のエージェント。
+
+  コールサインは「ゼロツー」で、後方からの火力支援を担っている。
+  外見はやや荒っぽそうなものの、実のところC&Cのエージェントの中でも最も慎重な性格の持ち主で、作戦中に暴走しがちなアスナやアカネを止めることに日々苦心している。

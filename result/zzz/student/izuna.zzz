@@ -1,0 +1,104 @@
+id: 10014
+dev name: Izuna_default
+
+
+### ------- INFO -------
+name: Izuna
+rarity: SSR : ★★★☆☆
+
+school: Hyakkiyako
+club: "NinpoKenkyubu"
+tags: "Hyakkiyako" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Mystic" :; "Front" :; "SMG" :; "Cover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: front
+
+armor: light_armor
+bullet: mystic
+
+weapon: SMG
+aim ik: two_hand_right
+
+equipments: gloves :; hairpin :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 2531
+  max: 35080
+atk:
+  min: 184
+  max: 1846
+def:
+  min: 22
+  max: 136
+heal:
+  min: 1382
+  max: 4147
+
+stability:
+  rate: 2000 : 20%
+  point: 1416
+
+critical:
+  crit point: 246
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 450
+regen: 700
+dodge: 1066
+accuracy: 108
+
+environment:
+  street: S
+  indoor: D
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: イズナ
+
+  family name:
+    jp: 久田 : ruby: くだ
+
+  full name:
+    jp: 久田 イズナ : ruby: くだ イズナ
+
+status message:
+  jp: イズナ、頑張ります！ ニンニン！
+
+age: 15
+height: 155
+school year: 1
+
+birthday:
+  day: 16
+  month: 12
+
+hobbies:
+  : "忍術の勉強"
+  : "主殿の護衛"
+
+introduction: [[
+百鬼夜行連合学院所属、忍術研究部の少女。
+
+明るくて活気溢れる性格の女の子だが、他の人にはあまり理解されない夢を追求してきた結果、これまでずっと独りぼっちで生きてきた。
+その夢とは「キヴォトス最高の忍者になること」。
+立派な忍者になるため、今日も先生を「主殿！」と呼びながら護衛（単に追いかけ回すとも言う）をし、様々な活動に明け暮れている。
+]]

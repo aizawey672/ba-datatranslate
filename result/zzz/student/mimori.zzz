@@ -1,0 +1,69 @@
+id: 19017
+dev name: Mimori_default
+
+
+### ------- INFO -------
+name: Mimori
+rarity: R : ★☆☆☆☆
+
+school: Hyakkiyako
+club: "Shugyobu"
+tags: "Hyakkiyako" :; "AllyMedium"
+
+
+### ------- STATUS -------
+type: striker
+role: supporter
+position: middle
+
+armor: light_armor
+bullet: mystic
+
+weapon: HG
+aim ik: one_hand_right
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2251
+  max: 26080
+atk:
+  min: 91
+  max: 919
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1398
+  max: 4196
+
+stability:
+  rate: 2000 : 20%
+  point: 1000
+
+critical:
+  crit point: 199
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 7
+
+range: 550
+regen: 700
+dodge: 1099
+accuracy: 99
+
+environment:
+  street: S
+  indoor: D
+  outdoor: B

@@ -1,0 +1,102 @@
+id: 16000
+dev name: Haruka_default
+
+
+### ------- INFO -------
+name: Haruka
+rarity: R : ★☆☆☆☆
+
+school: Gehenna
+club: "Kohshinjo68"
+tags: "Gehenna" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Explosion" :; "Front" :; "SG" :; "Uncover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Over_A"
+
+
+### ------- STATUS -------
+type: striker
+role: tanker
+position: front
+
+armor: light_armor
+bullet: explosion
+
+weapon: SG
+aim ik: two_hand_right
+
+equipments: shoes :; bag :; charm
+
+
+### ------- STATS -------
+hp:
+  min: 3033
+  max: 50710
+atk:
+  min: 116
+  max: 1164
+def:
+  min: 182
+  max: 1092
+heal:
+  min: 1384
+  max: 4152
+
+stability:
+  rate: 2000 : 20%
+  point: 2020
+
+critical:
+  crit point: 197
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 350
+regen: 700
+dodge: 237
+accuracy: 593
+
+environment:
+  street: C
+  indoor: A
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ハルカ
+
+  family name:
+    jp: 伊草 : ruby: いぐさ
+
+  full name:
+    jp: 伊草 ハルカ : ruby: いぐさ ハルカ
+
+status message:
+  jp: よろしくお願いいたします
+
+age: 15
+height: 157
+school year: 1
+
+birthday:
+  day: 13
+  month: 5
+
+hobbies:
+  : "雑草を育てること"
+
+introduction: [[
+ゲヘナ学園所属、便利屋68の平社員。
+
+暗くて陰気な性格のため、幼い頃からずっといじめられてきたが、アルのおかげでいじめから逃れられるようになった少女。その後、末っ子的な立ち位置で便利屋68にて活動中。
+内気で自尊心が低いが、その突飛な発想は便利屋の中で一番恐ろしいと言っても過言ではない。
+]]

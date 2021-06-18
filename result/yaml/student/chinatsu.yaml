@@ -1,0 +1,103 @@
+id: 26000
+dev name: Chinatsu_default
+
+
+### ------- INFO -------
+name: Chinatsu
+rarity: R - ★☆☆☆☆
+
+school: Gehenna
+club: "Fuuki"
+tags: ["Gehenna", "AllyMedium", "Support", "LightArmor", "Pierce", "HG", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Under_B", "Uncover"]
+
+
+### ------- STATUS -------
+type: special
+role: healer
+position: back
+
+armor: light_armor
+bullet: pierce
+
+weapon: HG
+aim ik: none
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2515
+  max: 18803
+atk:
+  min: 122
+  max: 1227
+def:
+  min: 25
+  max: 150
+heal:
+  min: 2399
+  max: 7199
+
+stability:
+  rate: 2000 - 20%
+  point: 1155
+
+critical:
+  crit point: 198
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 15
+
+range: 1000
+regen: 700
+dodge: 1093
+accuracy: 99
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: チナツ
+
+  family name:
+    jp: 火宮
+    jp ruby: ひのみや
+
+  full name:
+    jp: 火宮 チナツ
+    jp ruby: ひのみや チナツ
+
+status message:
+  jp: 喪失の先に
+
+age: 15
+height: 159
+school year: 1
+
+birthday:
+  day: 22
+  month: 8
+
+hobbies:
+  - "哲学書を読むこと"
+
+introduction: |
+  ゲヘナ学園所属、風紀委員会の救護担当。
+
+  規定、規律、手続きを重視する風紀委員会の数少ない常識人で、アコやイオリのような他の風紀委員達が暴走した時のブレーキ役。
+  言葉使いが硬く、「典型的な風紀委員」といったような冷たい印象を与えがちだが、可愛い動物の前ではとことんメロメロになってしまう優しい少女である。

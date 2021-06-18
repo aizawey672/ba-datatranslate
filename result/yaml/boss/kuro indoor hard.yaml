@@ -1,0 +1,69 @@
+id: 7402201
+dev name: Kuro_Indoor_Hard
+
+
+### ------- INFO -------
+name: Kuro Indoor Hard
+rarity: N
+
+school: None
+club: "None"
+tags: ["EnemyLarge"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: unarmed
+bullet: normal
+
+weapon: none
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 600000
+  max: 600000
+atk:
+  min: 950
+  max: 950
+def:
+  min: 700
+  max: 700
+heal:
+  min: 1
+  max: 1
+
+stability:
+  rate: 7500 - 75%
+  point: 300
+
+critical:
+  crit point: 0
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 1
+
+range: 2000
+regen: 0
+dodge: 100
+accuracy: 1300
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

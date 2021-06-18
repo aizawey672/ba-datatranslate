@@ -1,0 +1,104 @@
+id: 20000
+dev name: Hibiki_default
+
+
+### ------- INFO -------
+name: Hibiki
+rarity: SSR - ★★★☆☆
+
+school: Millennium
+club: "Engineer"
+tags: ["Millennium", "AllyMedium", "Support", "HeavyArmor", "Explosion", "MT", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Under_B", "Uncover"]
+
+
+### ------- STATUS -------
+type: special
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: MT
+aim ik: none
+
+equipments: [hat, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2237
+  max: 16721
+atk:
+  min: 246
+  max: 2463
+def:
+  min: 79
+  max: 477
+heal:
+  min: 1618
+  max: 4856
+
+stability:
+  rate: 2000 - 20%
+  point: 1141
+
+critical:
+  crit point: 201
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 1000
+regen: 700
+dodge: 201
+accuracy: 100
+
+environment:
+  street: S
+  indoor: B
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ヒビキ
+
+  family name:
+    jp: 猫塚
+    jp ruby: ねこづか
+
+  full name:
+    jp: 猫塚 ヒビキ
+    jp ruby: ねこづか ヒビキ
+
+status message:
+  jp: 言葉より行動で
+
+age: 15
+height: 154
+school year: 1
+
+birthday:
+  day: 2
+  month: 4
+
+hobbies:
+  - "買い物"
+  - "コスプレ"
+
+introduction: |
+  ミレニアムサイエンススクール所属、エンジニア部の部員。
+
+  やや社交性に乏しく話し方も朴訥としているが、その生まれつきの工学的な才能は突出しており不思議なものをいくつも発明している。 
+  彼女の発明品はほとんど欠点がなく、その全てが傑作と言っても過言では無いのだが、必ず一つは変な機能が含まれており、しばしば使い手を当惑させる。

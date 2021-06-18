@@ -1,0 +1,104 @@
+id: 10010
+dev name: Shiroko_default
+
+
+### ------- INFO -------
+name: Shiroko
+rarity: SSR : ★★★☆☆
+
+school: Abydos
+club: "Countermeasure"
+tags: "Abydos" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Explosion" :; "Middle" :; "AR" :; "Cover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: light_armor
+bullet: explosion
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 2225
+  max: 22260
+atk:
+  min: 278
+  max: 2788
+def:
+  min: 19
+  max: 118
+heal:
+  min: 1414
+  max: 4244
+
+stability:
+  rate: 2000 : 20%
+  point: 1384
+
+critical:
+  crit point: 202
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 650
+regen: 700
+dodge: 808
+accuracy: 707
+
+environment:
+  street: S
+  indoor: D
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: シロコ
+
+  family name:
+    jp: 砂狼 : ruby: すなおおかみ
+
+  full name:
+    jp: 砂狼 シロコ : ruby: すなおおかみ シロコ
+
+status message:
+  jp: ライディング仲間募集中……（まだ１/５）
+
+age: 16
+height: 156
+school year: 2
+
+birthday:
+  day: 16
+  month: 5
+
+hobbies:
+  : "ジョギング"
+  : "体力トレーニング"
+  : "ロードバイク"
+
+introduction: [[
+アビドス高等学校所属、スポーツが好きなアビドス対策委員会の切り込み隊長。
+
+基本的に口数が少なく、表情の変化がほとんどないため冷たい印象もあるが、実は誰よりアビドス高等学校を大事にしていると言っても過言ではない少女。
+学校の復興のためには手段と方法を選ばないため、たまに無茶なアイデアを提案したりする。
+]]

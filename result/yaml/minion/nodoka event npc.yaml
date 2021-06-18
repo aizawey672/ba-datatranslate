@@ -1,0 +1,69 @@
+id: 19009001
+dev name: Nodoka_Event_NPC
+
+
+### ------- INFO -------
+name: Nodoka Event NPC
+rarity: N
+
+school: None
+club: "None"
+tags: []
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: GL
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 2250
+  max: 18290
+atk:
+  min: 206
+  max: 2061
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1528
+  max: 10700
+
+stability:
+  rate: 2000 - 20%
+  point: 1000
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 20
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 150
+regen: 700
+dodge: 200
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

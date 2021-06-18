@@ -1,0 +1,69 @@
+id: 7010403
+dev name: Drone_Yoheki_Vulcan_C
+
+
+### ------- INFO -------
+name: Drone Yoheki Vulcan C
+rarity: N
+
+school: None
+club: "None"
+tags: ["EnemyMedium", "Yoheki", "Drone", "YohekiHeavyArmor", "ChampionAutomata", "YohekiAutomata", "Automata"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: normal
+
+weapon: vulcan
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 4140
+  max: 148540
+atk:
+  min: 93
+  max: 932
+def:
+  min: 250
+  max: 1500
+heal:
+  min: 2100
+  max: 6300
+
+stability:
+  rate: 7500 - 75%
+  point: 300
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 725
+regen: 0
+dodge: 100
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

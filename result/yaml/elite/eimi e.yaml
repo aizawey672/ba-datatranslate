@@ -1,0 +1,69 @@
+id: 7050012
+dev name: Eimi_default_E
+
+
+### ------- INFO -------
+name: Eimi E
+rarity: N - ☆☆☆☆☆
+
+school: Millennium
+club: "SPTF"
+tags: ["Millennium", "EnemyMedium"]
+
+
+### ------- STATUS -------
+type: striker
+role: tanker
+position: front
+
+armor: light_armor
+bullet: explosion
+
+weapon: SG
+aim ik: two_hand_right
+
+equipments: [shoes, bag, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 720
+  max: 42110
+atk:
+  min: 92
+  max: 927
+def:
+  min: 180
+  max: 1080
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 - 75%
+  point: 500
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 350
+regen: 0
+dodge: 84
+accuracy: 600
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

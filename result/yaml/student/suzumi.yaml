@@ -1,0 +1,104 @@
+id: 16003
+dev name: Suzumi_default
+
+
+### ------- INFO -------
+name: Suzumi
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "TrinityVigilance"
+tags: ["Trinity", "AllyMedium", "Main", "HeavyArmor", "Explosion", "Middle", "AR", "Cover", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: supporter
+position: middle
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2281
+  max: 22810
+atk:
+  min: 192
+  max: 1926
+def:
+  min: 20
+  max: 121
+heal:
+  min: 1380
+  max: 4141
+
+stability:
+  rate: 2000 - 20%
+  point: 1416
+
+critical:
+  crit point: 197
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 650
+regen: 700
+dodge: 788
+accuracy: 690
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: スズミ
+
+  family name:
+    jp: 守月
+    jp ruby: もりづき
+
+  full name:
+    jp: 守月 スズミ
+    jp ruby: もりづき スズミ
+
+status message:
+  jp: 今日も平穏な一日を
+
+age: 16
+height: 162
+school year: 2
+
+birthday:
+  day: 31
+  month: 8
+
+hobbies:
+  - "巡回"
+  - "散策"
+
+introduction: |
+  トリニティ総合学園所属、生徒たちの安全を守る自警団のメンバー。
+
+  トリニティの生徒が他の学園に襲われる事件が頻繁に発生したため、これらを防ぐために街中の巡回を始めた。
+  燃え上がる正義感のせいで冷たい性格だと誤解されがちだが、本当は優しい女の子。

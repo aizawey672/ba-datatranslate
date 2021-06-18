@@ -1,0 +1,102 @@
+id: 10000
+dev name: Aru_default
+
+
+### ------- INFO -------
+name: Aru
+rarity: SSR : ★★★☆☆
+
+school: Gehenna
+club: "Kohshinjo68"
+tags: "Gehenna" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Explosion" :; "Back" :; "SR" :; "Cover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 2236
+  max: 19390
+atk:
+  min: 369
+  max: 3690
+def:
+  min: 19
+  max: 119
+heal:
+  min: 1408
+  max: 4225
+
+stability:
+  rate: 2000 : 20%
+  point: 1988
+
+critical:
+  crit point: 201
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 750
+regen: 700
+dodge: 201
+accuracy: 905
+
+environment:
+  street: S
+  indoor: D
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: アル
+
+  family name:
+    jp: 陸八魔 : ruby: りくはちま
+
+  full name:
+    jp: 陸八魔 アル : ruby: りくはちま アル
+
+status message:
+  jp: なんでも解決するわよ！
+
+age: 16
+height: 160
+school year: 2
+
+birthday:
+  day: 12
+  month: 3
+
+hobbies:
+  : "経営の勉強"
+
+introduction: [[
+ゲヘナ学園所属、便利屋68の自称社長。
+
+ゲヘナ学園の部活である便利屋68で、好き勝手に不法事業を行っている少女。
+アル本人はかっこいい悪党としてふるまいたいと思っているものの、抜けているところが多いためすぐにバレてしまう。
+]]

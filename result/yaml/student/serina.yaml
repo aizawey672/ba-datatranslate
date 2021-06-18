@@ -1,0 +1,103 @@
+id: 26003
+dev name: Serina_default
+
+
+### ------- INFO -------
+name: Serina
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "KnightsHospitaller"
+tags: ["Trinity", "AllyMedium", "Support", "LightArmor", "Mystic", "AR", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Under_B", "Uncover"]
+
+
+### ------- STATUS -------
+type: special
+role: healer
+position: back
+
+armor: light_armor
+bullet: mystic
+
+weapon: AR
+aim ik: none
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2482
+  max: 18550
+atk:
+  min: 167
+  max: 1678
+def:
+  min: 24
+  max: 148
+heal:
+  min: 2431
+  max: 7294
+
+stability:
+  rate: 2000 - 20%
+  point: 1596
+
+critical:
+  crit point: 201
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 20
+
+range: 1000
+regen: 700
+dodge: 805
+accuracy: 704
+
+environment:
+  street: A
+  indoor: B
+  outdoor: C
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: セリナ
+
+  family name:
+    jp: 鷲見
+    jp ruby: すみ
+
+  full name:
+    jp: 鷲見 セリナ
+    jp ruby: すみ セリナ
+
+status message:
+  jp: 体調が悪い方はいつでもご連絡を
+
+age: 16
+height: 156
+school year: 2
+
+birthday:
+  day: 6
+  month: 1
+
+hobbies:
+  - "病院のボランティア"
+
+introduction: |
+  トリニティ総合学園所属、救護騎士団で献身する優しい少女。
+
+  ボランティア活動に奉仕する善良な性格の持ち主で、健康に関しては度が過ぎるほど心配性なこともあって、周りの生徒たちからは「お母さんみたい」とよく言われている。
+  争いごとは嫌うものの、平和を脅かす敵に対しては毅然とした態度で立ち向かう。

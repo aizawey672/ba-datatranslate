@@ -1,0 +1,103 @@
+id: 26004
+dev name: Shimiko_default
+
+
+### ------- INFO -------
+name: Shimiko
+rarity: R : ★☆☆☆☆
+
+school: Trinity
+club: "BookClub"
+tags: "Trinity" :; "AllyMedium" :; "Support" :; "LightArmor" :; "Explosion" :; "AR" :; "StreetBattle_Under_B" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B" :; "Uncover"
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: AR
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2211
+  max: 16526
+atk:
+  min: 192
+  max: 1922
+def:
+  min: 19
+  max: 117
+heal:
+  min: 1637
+  max: 4913
+
+stability:
+  rate: 2000 : 20%
+  point: 1578
+
+critical:
+  crit point: 203
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 20
+
+range: 1000
+regen: 700
+dodge: 813
+accuracy: 712
+
+environment:
+  street: C
+  indoor: B
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: シミコ
+
+  family name:
+    jp: 円堂 : ruby: えんどう
+
+  full name:
+    jp: 円堂 シミコ : ruby: えんどう シミコ
+
+status message:
+  jp: 本は期限内に返却してください
+
+age: 15
+height: 157
+school year: 1
+
+birthday:
+  day: 30
+  month: 11
+
+hobbies:
+  : "読書"
+  : "しおりづくり"
+
+introduction: [[
+トリニティ総合学園所属、図書委員会の司書。
+
+本が大好きな読書マニアで、トリニティの図書館に所蔵されている膨大な蔵書を全て読破したという数少ない生徒の一人。
+本を読むのと同じくらい本を勧めることも好きで、誰かに出会うとまず最初に「この人の好みに合う本は何だろうか」と考えてしまう。
+]]

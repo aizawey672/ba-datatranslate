@@ -1,0 +1,105 @@
+id: 23001
+dev name: Fuuka_default
+
+
+### ------- INFO -------
+name: Fuuka
+rarity: SR - ★★☆☆☆
+
+school: Gehenna
+club: "FoodService"
+tags: ["Gehenna", "AllyMedium", "Support", "HeavyArmor", "Explosion", "SMG", "StreetBattle_Over_A", "OutdoorBattle_Over_A", "IndoorBattle_Under_B", "Uncover"]
+
+
+### ------- STATUS -------
+type: special
+role: healer
+position: back
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: SMG
+aim ik: none
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2546
+  max: 19033
+atk:
+  min: 145
+  max: 1454
+def:
+  min: 25
+  max: 152
+heal:
+  min: 2370
+  max: 7110
+
+stability:
+  rate: 2000 - 20%
+  point: 1638
+
+critical:
+  crit point: 196
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 4
+
+range: 1000
+regen: 700
+dodge: 1177
+accuracy: 98
+
+environment:
+  street: A
+  indoor: D
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: フウカ
+
+  family name:
+    jp: 愛清
+    jp ruby: あいきよ
+
+  full name:
+    jp: 愛清 フウカ
+    jp ruby: あいきよ フウカ
+
+status message:
+  jp: 一日くらい平穏な日が欲しいです(T_T)
+
+age: 16
+height: 159
+school year: 2
+
+birthday:
+  day: 30
+  month: 4
+
+hobbies:
+  - "家庭料理"
+  - "お弁当作り"
+
+introduction: |
+  ゲヘナ学園所属、学生食堂の管理を担当する給食部のメンバー。
+
+  毎朝学園のみんなのためにすごい量の食事を作っている、ゲヘナでは珍しい、優しくて真面目な生徒。
+  料理の腕前はそれなりに良い方だが、食堂の人手は基本的に足りてないこともあり、その実力は過小評価されがち。
+  それでも彼女はめげることなく、より美味しい食事を提供するため日々こつこつ努力を重ねている。

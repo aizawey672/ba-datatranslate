@@ -1,0 +1,102 @@
+id: 26002
+dev name: Juri_default
+
+
+### ------- INFO -------
+name: Juri
+rarity: R : ★☆☆☆☆
+
+school: Gehenna
+club: "FoodService"
+tags: "Gehenna" :; "AllyMedium" :; "Support" :; "LightArmor" :; "Explosion" :; "SG" :; "StreetBattle_Under_B" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Over_A" :; "Uncover"
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: SG
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2214
+  max: 16549
+atk:
+  min: 170
+  max: 1704
+def:
+  min: 118
+  max: 708
+heal:
+  min: 1634
+  max: 4904
+
+stability:
+  rate: 2000 : 20%
+  point: 2263
+
+critical:
+  crit point: 203
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 1000
+regen: 700
+dodge: 203
+accuracy: 609
+
+environment:
+  street: C
+  indoor: A
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ジュリ
+
+  family name:
+    jp: 牛牧 : ruby: うしまき
+
+  full name:
+    jp: 牛牧 ジュリ : ruby: うしまき ジュリ
+
+status message:
+  jp: 今日も一生懸命、料理の練習！
+
+age: 15
+height: 170
+school year: 1
+
+birthday:
+  day: 20
+  month: 10
+
+hobbies:
+  : "自己流の料理研究"
+
+introduction: [[
+ゲヘナ学園所属、学生食堂の管理を担当する給食部のメンバー。
+
+フウカと同じく、生徒達のため頑張って食事を作っている少女なのだが、彼女の料理の腕前は悪いという水準を超えて壊滅的であるため、給食づくりにはあまり役に立たずにいる。
+しかしフウカの励ましと指導を受け、彼女は今日もよりいい料理を作るために努力を重ねている。
+]]

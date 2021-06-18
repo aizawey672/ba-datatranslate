@@ -1,0 +1,104 @@
+id: 23002
+dev name: Hanae_default
+
+
+### ------- INFO -------
+name: Hanae
+rarity: SR - ★★☆☆☆
+
+school: Trinity
+club: "KnightsHospitaller"
+tags: ["Trinity", "AllyMedium", "Support", "HeavyArmor", "Explosion", "AR", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Over_A", "Uncover"]
+
+
+### ------- STATUS -------
+type: special
+role: healer
+position: back
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: AR
+aim ik: none
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2562
+  max: 19148
+atk:
+  min: 162
+  max: 1625
+def:
+  min: 25
+  max: 153
+heal:
+  min: 2354
+  max: 7064
+
+stability:
+  rate: 2000 - 20%
+  point: 1647
+
+critical:
+  crit point: 195
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 1000
+regen: 700
+dodge: 780
+accuracy: 682
+
+environment:
+  street: A
+  indoor: A
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ハナエ
+
+  family name:
+    jp: 朝顔
+    jp ruby: あさがお
+
+  full name:
+    jp: 朝顔 ハナエ
+    jp ruby: あさがお ハナエ
+
+status message:
+  jp: 何かあったら、どなたでも救護騎士団へ！
+
+age: 15
+height: 150
+school year: 1
+
+birthday:
+  day: 12
+  month: 5
+
+hobbies:
+  - "ダンス"
+  - "チアリーディング"
+
+introduction: |
+  トリニティ総合学園所属、救護騎士団の元気で明るい新入生。
+
+  何事にも前向きで元気溢れる少女だが、患者を見つけると度を超して騒ぎ立ててしまい状況を悪化させたりすることも。
+  ちょっと抜けているところもあるが、彼女にお世話してもらった患者は不思議なことにどんな病気でもたちまち治ってしまうという。

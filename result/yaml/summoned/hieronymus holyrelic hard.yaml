@@ -1,0 +1,69 @@
+id: 7303901
+dev name: Hieronymus_HolyRelic_Hard
+
+
+### ------- INFO -------
+name: Hieronymus HolyRelic Hard
+rarity: N
+
+school: None
+club: "None"
+tags: []
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: relic
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 6502
+  max: 6502
+atk:
+  min: 6175
+  max: 6175
+def:
+  min: 500
+  max: 500
+heal:
+  min: 1
+  max: 1
+
+stability:
+  rate: 9999 - 100%
+  point: 0
+
+critical:
+  crit point: 0
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 1
+
+range: 2000
+regen: 0
+dodge: 300
+accuracy: 1200
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

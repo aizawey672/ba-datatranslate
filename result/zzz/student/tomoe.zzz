@@ -1,0 +1,69 @@
+id: 19011
+dev name: Tomoe_default
+
+
+### ------- INFO -------
+name: Tomoe
+rarity: R : ★☆☆☆☆
+
+school: RedWinter
+club: "RedwinterSecretary"
+tags: "RedWinter"
+
+
+### ------- STATUS -------
+type: striker
+role: supporter
+position: back
+
+armor: unarmed
+bullet: normal
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: gloves :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2250
+  max: 18290
+atk:
+  min: 250
+  max: 2505
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1528
+  max: 10700
+
+stability:
+  rate: 2000 : 20%
+  point: 2000
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 750
+regen: 700
+dodge: 200
+accuracy: 900
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

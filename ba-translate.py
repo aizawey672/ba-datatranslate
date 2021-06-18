@@ -313,20 +313,29 @@ with open(filePath, 'r') as f:
 resultDirPath = "result"
 for fileType in ["zzz", "yaml"]:
     dirPath = os.path.join(resultDirPath, fileType)
-    os.makedirs(dirPath, exist_ok=True)
-
 
     for chara in characterTable.values():
-        if chara["TacticEntityType"] != "Student":
-            continue
-        elif len(str(chara["Id"])) != 5:
-            continue
-        elif any(unnecessaryName in chara["DevName"].lower() for unnecessaryName in ["dummy", "tank"]):
-            continue
+        if chara["TacticEntityType"] == "Student":
+            if len(str(chara["Id"])) != 5:
+                continue
+            elif any(unnecessaryName in chara["DevName"].lower() for unnecessaryName in ["dummy", "tank"]):
+                continue
 
-        filePath = os.path.join(dirPath, chara["StrippedName"].lower() + "." + fileType)
-        with open(filePath, 'w') as f:
-            if fileType == "yaml":
-                f.write(toYamlString(chara))
-            elif fileType == "zzz":
-                f.write(toZZZString(chara))
+            filePath = os.path.join(dirPath, chara["TacticEntityType"].lower(), chara["StrippedName"].lower() + "." + fileType)
+            os.makedirs(os.path.dirname(filePath), exist_ok=True)
+
+            with open(filePath, 'w') as f:
+                if fileType == "yaml":
+                    f.write(toYamlString(chara))
+                elif fileType == "zzz":
+                    f.write(toZZZString(chara))
+        
+        else:
+            filePath = os.path.join(dirPath, chara["TacticEntityType"].lower(), chara["StrippedName"].lower() + "." + fileType)
+            os.makedirs(os.path.dirname(filePath), exist_ok=True)
+
+            with open(filePath, 'w') as f:
+                if fileType == "yaml":
+                    f.write(toYamlString(chara))
+                elif fileType == "zzz":
+                    f.write(toZZZString(chara))

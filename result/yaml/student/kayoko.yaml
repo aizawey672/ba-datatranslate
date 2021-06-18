@@ -1,0 +1,103 @@
+id: 13005
+dev name: Kayoko_default
+
+
+### ------- INFO -------
+name: Kayoko
+rarity: SR - ★★☆☆☆
+
+school: Gehenna
+club: "Kohshinjo68"
+tags: ["Gehenna", "AllyMedium", "Main", "HeavyArmor", "Explosion", "Middle", "HG", "Cover", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Over_A"]
+
+
+### ------- STATUS -------
+type: striker
+role: supporter
+position: middle
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: HG
+aim ik: two_hand_right
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2272
+  max: 26330
+atk:
+  min: 105
+  max: 1053
+def:
+  min: 20
+  max: 121
+heal:
+  min: 1385
+  max: 4156
+
+stability:
+  rate: 2000 - 20%
+  point: 1008
+
+critical:
+  crit point: 197
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 15
+
+range: 550
+regen: 700
+dodge: 1088
+accuracy: 98
+
+environment:
+  street: A
+  indoor: A
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: カヨコ
+
+  family name:
+    jp: 鬼方
+    jp ruby: おにかた
+
+  full name:
+    jp: 鬼方 カヨコ
+    jp ruby: おにかた カヨコ
+
+status message:
+  jp: モモトークはあんまり使わない
+
+age: 18
+height: 157
+school year: 3
+
+birthday:
+  day: 17
+  month: 3
+
+hobbies:
+  - "音楽CD収集"
+
+introduction: |
+  ゲヘナ学園所属、便利屋68の課長。
+
+  他の便利屋68のメンバーとは異なり悪意がないのにも関わらず、生まれ持った顔つきが怖いという理由だけで不良と誤解される少女。
+  カヨコ本人はそんな誤解に対して沈黙を貫いているが、むしろそのせいで怖い人というイメージがより強まる悪循環である。

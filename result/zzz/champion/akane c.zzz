@@ -1,0 +1,69 @@
+id: 7050143
+dev name: Akane_default_C
+
+
+### ------- INFO -------
+name: Akane C
+rarity: N : ☆☆☆☆☆
+
+school: Millennium
+club: "CleanNClearing"
+tags: "Millennium" :; "EnemyMedium"
+
+
+### ------- STATUS -------
+type: striker
+role: supporter
+position: middle
+
+armor: light_armor
+bullet: pierce
+
+weapon: HG
+aim ik: two_hand_right
+
+equipments: shoes :; hairpin :; charm
+
+
+### ------- STATS -------
+hp:
+  min: 5670
+  max: 285990
+atk:
+  min: 109
+  max: 1090
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 : 75%
+  point: 250
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 6
+
+range: 500
+regen: 0
+dodge: 550
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

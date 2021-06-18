@@ -1,0 +1,69 @@
+id: 7199999
+dev name: Boxcat_01_Terror_C_WEEK_StartDummy
+
+
+### ------- INFO -------
+name: Boxcat 01 Terror C WEEK StartDummy
+rarity: N
+
+school: None
+club: "None"
+tags: ["EnemyLarge"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: unarmed
+bullet: normal
+
+weapon: none
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 161
+  max: 10350
+atk:
+  min: 72
+  max: 725
+def:
+  min: 300
+  max: 1800
+heal:
+  min: 917
+  max: 6420
+
+stability:
+  rate: 7500 - 75%
+  point: 300
+
+critical:
+  crit point: 150
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 20
+
+range: 600
+regen: 0
+dodge: 50
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

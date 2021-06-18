@@ -1,0 +1,69 @@
+id: 7000533
+dev name: Soldier_Blackmarket_RL_C
+
+
+### ------- INFO -------
+name: Soldier Blackmarket RL C
+rarity: N
+
+school: None
+club: "None"
+tags: ["EnemyMedium", "Blackmarket", "Helmet"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: RL
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 4050
+  max: 140450
+atk:
+  min: 381
+  max: 3812
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 - 75%
+  point: 250
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 750
+regen: 0
+dodge: 100
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

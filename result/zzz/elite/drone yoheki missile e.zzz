@@ -1,0 +1,69 @@
+id: 7010412
+dev name: Drone_Yoheki_Missile_E
+
+
+### ------- INFO -------
+name: Drone Yoheki Missile E
+rarity: N
+
+school: None
+club: "None"
+tags: "EnemyMedium" :; "Yoheki" :; "Drone" :; "YohekiHeavyArmor" :; "YohekiAutomata" :; "Automata"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: heavy_armor
+bullet: normal
+
+weapon: missile
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 496
+  max: 15590
+atk:
+  min: 251
+  max: 2513
+def:
+  min: 200
+  max: 1200
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 : 75%
+  point: 300
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 2
+
+range: 725
+regen: 0
+dodge: 70
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

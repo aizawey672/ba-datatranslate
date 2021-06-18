@@ -1,0 +1,69 @@
+id: 7020001
+dev name: Terror_Nun_Yustina_SMG_M
+
+
+### ------- INFO -------
+name: Terror Nun Yustina SMG M
+rarity: N
+
+school: None
+club: "None"
+tags: "EnemyMedium"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: unarmed
+bullet: normal
+
+weapon: SMG
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 105
+  max: 9720
+atk:
+  min: 94
+  max: 947
+def:
+  min: 25
+  max: 150
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 : 75%
+  point: 350
+
+critical:
+  crit point: 500
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 20
+
+range: 400
+regen: 0
+dodge: 300
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

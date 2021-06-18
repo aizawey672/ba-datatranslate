@@ -1,0 +1,105 @@
+id: 10020
+dev name: Koharu_default
+
+
+### ------- INFO -------
+name: Koharu
+rarity: SSR : ★★★☆☆
+
+school: Trinity
+club: "RemedialClass"
+tags: "Trinity" :; "AllyMedium" :; "Main" :; "HeavyArmor" :; "Explosion" :; "Back" :; "SR" :; "Cover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: healer
+position: back
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2436
+  max: 21120
+atk:
+  min: 208
+  max: 2085
+def:
+  min: 24
+  max: 146
+heal:
+  min: 2153
+  max: 6461
+
+stability:
+  rate: 2000 : 20%
+  point: 1948
+
+critical:
+  crit point: 205
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 750
+regen: 700
+dodge: 194
+accuracy: 923
+
+environment:
+  street: D
+  indoor: B
+  outdoor: S
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: コハル
+
+  family name:
+    jp: 下江 : ruby: しもえ
+
+  full name:
+    jp: 下江 コハル : ruby: しもえ コハル
+
+status message:
+  jp: エッチなのはダメったらダメ！
+
+age: 15
+height: 148
+school year: 1
+
+birthday:
+  day: 16
+  month: 4
+
+hobbies:
+  : "空想"
+  : "妄想"
+  : "エッチな雑誌集め"
+
+introduction: [[
+トリニティ総合学園所属、補習授業部の一員。
+
+本来は正義実現委員会の所属だったが成績が落ち、留年の危機に陥ってしまい、強制的に補習授業部へと入れられてしまった。
+本人は自分のことをエリートだと思っているが、実際には学校の授業に全くついていけないくらい頭が悪い。
+密かにエッチな雑誌を集めるという趣味（？）を持っており、日常の些細なことから妄想を膨らませては、しょっちゅう一人で恥ずかしがっている。
+]]

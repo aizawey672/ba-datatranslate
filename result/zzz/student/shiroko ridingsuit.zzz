@@ -1,0 +1,69 @@
+id: 19016
+dev name: Shiroko_RidingSuit
+
+
+### ------- INFO -------
+name: Shiroko RidingSuit
+rarity: R : ★☆☆☆☆
+
+school: Abydos
+club: "Countermeasure"
+tags: "Abydos"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: gloves :; bag :; charm
+
+
+### ------- STATS -------
+hp:
+  min: 2225
+  max: 22260
+atk:
+  min: 278
+  max: 2788
+def:
+  min: 19
+  max: 118
+heal:
+  min: 1544
+  max: 10813
+
+stability:
+  rate: 2000 : 20%
+  point: 1384
+
+critical:
+  crit point: 202
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 650
+regen: 700
+dodge: 808
+accuracy: 707
+
+environment:
+  street: S
+  indoor: D
+  outdoor: B

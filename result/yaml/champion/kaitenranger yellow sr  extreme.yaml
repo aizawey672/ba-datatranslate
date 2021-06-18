@@ -1,0 +1,69 @@
+id: 7304505
+dev name: Kaitenranger_Yellow_SR__Extreme
+
+
+### ------- INFO -------
+name: Kaitenranger Yellow SR  Extreme
+rarity: N - ★★★★★
+
+school: None
+club: "None"
+tags: ["EnemyMedium", "Helmet", "Kaitenranger"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: SR
+aim ik: two_hand_right
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 9000
+  max: 219510
+atk:
+  min: 458
+  max: 4585
+def:
+  min: 333
+  max: 333
+heal:
+  min: 1528
+  max: 10700
+
+stability:
+  rate: 7500 - 75%
+  point: 500
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 800
+regen: 0
+dodge: 100
+accuracy: 900
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

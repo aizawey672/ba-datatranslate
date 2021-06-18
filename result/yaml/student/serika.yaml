@@ -1,0 +1,104 @@
+id: 13008
+dev name: Serika_default
+
+
+### ------- INFO -------
+name: Serika
+rarity: SR - ★★☆☆☆
+
+school: Abydos
+club: "Countermeasure"
+tags: ["Abydos", "AllyMedium", "Main", "LightArmor", "Explosion", "Middle", "AR", "Cover", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Over_A"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: light_armor
+bullet: explosion
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: [gloves, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2192
+  max: 21920
+atk:
+  min: 282
+  max: 2829
+def:
+  min: 19
+  max: 116
+heal:
+  min: 1435
+  max: 4307
+
+stability:
+  rate: 2000 - 20%
+  point: 1364
+
+critical:
+  crit point: 256
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 650
+regen: 700
+dodge: 820
+accuracy: 717
+
+environment:
+  street: A
+  indoor: A
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: セリカ
+
+  family name:
+    jp: 黒見
+    jp ruby: くろみ
+
+  full name:
+    jp: 黒見 セリカ
+    jp ruby: くろみ セリカ
+
+status message:
+  jp: 対策委員会、黒見セリカです
+
+age: 15
+height: 153
+school year: 1
+
+birthday:
+  day: 25
+  month: 6
+
+hobbies:
+  - "貯金"
+  - "アルバイト"
+
+introduction: |
+  アビドス高等学校所属、アビドス対策委員会の気難し屋さんな書記。
+
+  小言が多く、自分の感情を表すことに躊躇しないタイプ。
+  日々口癖のように「こんな学校なんか、潰れちゃえばいいのに！」と言ってしまうが、実は学校の借金を返すために他のみんなに隠れてバイトをしているほど、学校に対する愛情が深い子である。

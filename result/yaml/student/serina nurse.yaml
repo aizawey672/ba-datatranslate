@@ -1,0 +1,69 @@
+id: 29007
+dev name: Serina_Nurse
+
+
+### ------- INFO -------
+name: Serina Nurse
+rarity: R - ★☆☆☆☆
+
+school: Trinity
+club: "KnightsHospitaller"
+tags: ["Trinity"]
+
+
+### ------- STATUS -------
+type: special
+role: healer
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: AR
+aim ik: none
+
+equipments: [hat, badge, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2500
+  max: 36248
+atk:
+  min: 166
+  max: 1666
+def:
+  min: 25
+  max: 150
+heal:
+  min: 2636
+  max: 18458
+
+stability:
+  rate: 2000 - 20%
+  point: 1610
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 1000
+regen: 700
+dodge: 800
+accuracy: 700
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

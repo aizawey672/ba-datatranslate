@@ -1,0 +1,102 @@
+id: 23005
+dev name: Ayane_default
+
+
+### ------- INFO -------
+name: Ayane
+rarity: SR : ★★☆☆☆
+
+school: Abydos
+club: "Countermeasure"
+tags: "Abydos" :; "AllyMedium" :; "Support" :; "LightArmor" :; "Pierce" :; "HG" :; "StreetBattle_Under_B" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Over_A" :; "Uncover"
+
+
+### ------- STATUS -------
+type: special
+role: healer
+position: back
+
+armor: light_armor
+bullet: pierce
+
+weapon: HG
+aim ik: none
+
+equipments: shoes :; hairpin :; necklace
+
+
+### ------- STATS -------
+hp:
+  min: 2562
+  max: 19148
+atk:
+  min: 120
+  max: 1204
+def:
+  min: 25
+  max: 153
+heal:
+  min: 2354
+  max: 7064
+
+stability:
+  rate: 2000 : 20%
+  point: 1178
+
+critical:
+  crit point: 195
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 1000
+regen: 700
+dodge: 1072
+accuracy: 97
+
+environment:
+  street: D
+  indoor: A
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: アヤネ
+
+  family name:
+    jp: 奥空 : ruby: おくそら
+
+  full name:
+    jp: 奥空 アヤネ : ruby: おくそら アヤネ
+
+status message:
+  jp: 常識を大切にする対策委員会です
+
+age: 15
+height: 153
+school year: 1
+
+birthday:
+  day: 12
+  month: 11
+
+hobbies:
+  : "家計簿をつけること"
+  : "骨董品収集"
+
+introduction: [[
+アビドス高等学校所属、対策委員会の真面目な会計担当。
+
+原則と規則を重視するタイプの女の子。アビドス高等学校の復興のため、ひたむきに努力している。
+]]

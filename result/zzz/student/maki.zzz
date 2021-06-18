@@ -1,0 +1,101 @@
+id: 10007
+dev name: Maki_default
+
+
+### ------- INFO -------
+name: Maki
+rarity: SSR : ★★★☆☆
+
+school: Millennium
+club: "Veritas"
+tags: "Millennium" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Pierce" :; "Back" :; "MG" :; "Uncover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: pierce
+
+weapon: MG
+aim ik: none
+
+equipments: gloves :; hairpin :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 2288
+  max: 19840
+atk:
+  min: 226
+  max: 2265
+def:
+  min: 81
+  max: 488
+heal:
+  min: 1375
+  max: 4127
+
+stability:
+  rate: 2000 : 20%
+  point: 1424
+
+critical:
+  crit point: 245
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 45
+
+range: 750
+regen: 700
+dodge: 196
+accuracy: 98
+
+environment:
+  street: C
+  indoor: C
+  outdoor: S
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: マキ
+
+  family name:
+    jp: 小塗 : ruby: こぬり
+
+  full name:
+    jp: 小塗 マキ : ruby: こぬり マキ
+
+status message:
+  jp: グラフィティ大好き！
+
+age: 15
+height: 149
+school year: 1
+
+birthday:
+  day: 1
+  month: 8
+
+hobbies:
+  : "グラフィティ"
+  : "ゲーム"
+
+introduction: [[
+ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」の部員。グラフィティが好きないたずらっ子で、ヴェリタスのエンブレムも彼女の作品。
+基本的に楽天的で思いつくままに動くタイプのため、よく他の部活とのトラブルを起こしてしまう。
+]]

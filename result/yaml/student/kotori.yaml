@@ -1,0 +1,102 @@
+id: 16002
+dev name: Kotori_default
+
+
+### ------- INFO -------
+name: Kotori
+rarity: R - ★☆☆☆☆
+
+school: Millennium
+club: "Engineer"
+tags: ["Millennium", "AllyMedium", "Main", "LightArmor", "Pierce", "Back", "MG", "Uncover", "StreetBattle_Under_B", "OutdoorBattle_Under_B", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: supporter
+position: back
+
+armor: light_armor
+bullet: pierce
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: [shoes, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2262
+  max: 19610
+atk:
+  min: 186
+  max: 1865
+def:
+  min: 80
+  max: 482
+heal:
+  min: 1392
+  max: 4176
+
+stability:
+  rate: 2000 - 20%
+  point: 1404
+
+critical:
+  crit point: 198
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 5
+  count: 50
+
+range: 750
+regen: 700
+dodge: 198
+accuracy: 99
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: コトリ
+
+  family name:
+    jp: 豊見
+    jp ruby: とよみ
+
+  full name:
+    jp: 豊見 コトリ
+    jp ruby: とよみ コトリ
+
+status message:
+  jp: マイクロ波を讃えましょう！
+
+age: 15
+height: 151
+school year: 1
+
+birthday:
+  day: 31
+  month: 12
+
+hobbies:
+  - "おしゃべり"
+
+introduction: |
+  ミレニアムサイエンススクール所属、エンジニア部の部員。
+
+  物理学や機械のメカニズムについて話すと止まらない、おしゃべり好きな女の子。ミレニアムで機械と関連したトラブルが発生すると、いの一番に現場へと現れて状況解説を始める。

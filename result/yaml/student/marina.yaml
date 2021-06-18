@@ -1,0 +1,69 @@
+id: 19007
+dev name: Marina_default
+
+
+### ------- INFO -------
+name: Marina
+rarity: R - ★☆☆☆☆
+
+school: RedWinter
+club: "RedwinterSecretary"
+tags: ["RedWinter"]
+
+
+### ------- STATUS -------
+type: striker
+role: tanker
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: SMG
+aim ik: two_hand_right
+
+equipments: [hat, badge, charm]
+
+
+### ------- STATS -------
+hp:
+  min: 2500
+  max: 20320
+atk:
+  min: 153
+  max: 1539
+def:
+  min: 25
+  max: 150
+heal:
+  min: 1528
+  max: 10700
+
+stability:
+  rate: 2000 - 20%
+  point: 1400
+
+critical:
+  crit point: 250
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 5
+
+range: 350
+regen: 700
+dodge: 1200
+accuracy: 100
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

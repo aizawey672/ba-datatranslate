@@ -1,0 +1,103 @@
+id: 13001
+dev name: Chise_default
+
+
+### ------- INFO -------
+name: Chise
+rarity: SR - ★★☆☆☆
+
+school: Hyakkiyako
+club: "Onmyobu"
+tags: ["Hyakkiyako", "AllyMedium", "Main", "HeavyArmor", "Mystic", "Middle", "GL", "Cover", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Over_A"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: heavy_armor
+bullet: mystic
+
+weapon: GL
+aim ik: two_hand_right
+
+equipments: [gloves, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2256
+  max: 22560
+atk:
+  min: 222
+  max: 2220
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1396
+  max: 4188
+
+stability:
+  rate: 2000 - 20%
+  point: 1000
+
+critical:
+  crit point: 249
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 6
+
+range: 650
+regen: 700
+dodge: 199
+accuracy: 99
+
+environment:
+  street: A
+  indoor: A
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: チセ
+
+  family name:
+    jp: 和楽
+    jp ruby: わらく
+
+  full name:
+    jp: 和楽 チセ
+    jp ruby: わらく チセ
+
+status message:
+  jp: 雲を見つけたら教えて
+
+age: 16
+height: 159
+school year: 2
+
+birthday:
+  day: 13
+  month: 7
+
+hobbies:
+  - "俳句"
+
+introduction: |
+  百鬼夜行連合学院所属、陰陽部の天然な電波系少女。
+
+  俳句のような伝統文化が好きで、陰陽部に入部した。
+  その外見や仕草から滲み出る神秘的な雰囲気を纏っており、そのせいで百鬼夜行の生徒たちから羨望の的になっているが、本人はそのことをほとんど自覚していない。

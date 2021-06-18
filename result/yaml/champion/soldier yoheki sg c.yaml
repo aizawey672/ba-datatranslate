@@ -1,0 +1,69 @@
+id: 7000303
+dev name: Soldier_Yoheki_SG_C
+
+
+### ------- INFO -------
+name: Soldier Yoheki SG C
+rarity: N
+
+school: None
+club: "None"
+tags: ["EnemyMedium", "Yoheki", "Helmet"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: normal
+
+weapon: SG
+aim ik: none
+
+equipments: null
+
+
+### ------- STATS -------
+hp:
+  min: 5400
+  max: 361000
+atk:
+  min: 98
+  max: 980
+def:
+  min: 180
+  max: 1080
+heal:
+  min: 1400
+  max: 4200
+
+stability:
+  rate: 7500 - 75%
+  point: 500
+
+critical:
+  crit point: 200
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 350
+regen: 0
+dodge: 120
+accuracy: 600
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B

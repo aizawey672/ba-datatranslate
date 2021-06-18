@@ -1,0 +1,103 @@
+id: 10009
+dev name: Izumi_default
+
+
+### ------- INFO -------
+name: Izumi
+rarity: SSR - ★★★☆☆
+
+school: Gehenna
+club: "GourmetClub"
+tags: ["Gehenna", "AllyMedium", "Main", "LightArmor", "Explosion", "Back", "MG", "Uncover", "StreetBattle_Over_A", "OutdoorBattle_Under_B", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: [gloves, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2295
+  max: 19900
+atk:
+  min: 195
+  max: 1950
+def:
+  min: 81
+  max: 489
+heal:
+  min: 1371
+  max: 4115
+
+stability:
+  rate: 2000 - 20%
+  point: 1428
+
+critical:
+  crit point: 244
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 45
+
+range: 750
+regen: 700
+dodge: 195
+accuracy: 97
+
+environment:
+  street: S
+  indoor: B
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: イズミ
+
+  family name:
+    jp: 獅子堂
+    jp ruby: ししどう
+
+  full name:
+    jp: 獅子堂 イズミ
+    jp ruby: ししどう イズミ
+
+status message:
+  jp: お腹へったぁあ～
+
+age: 16
+height: 161
+school year: 2
+
+birthday:
+  day: 11
+  month: 5
+
+hobbies:
+  - "ゲテモノ料理を食べること"
+  - "作ること"
+
+introduction: |
+  ゲヘナ学園所属、美食研究会のメンバーであり、なんでもよく食べる食いしん坊少女。
+
+  食べ物を愛しすぎた結果、他の人からすると勘弁してほしいと思うようなゲテモノも好んで食べるようになった。

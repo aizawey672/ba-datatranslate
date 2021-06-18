@@ -1,0 +1,103 @@
+id: 10001
+dev name: Eimi_default
+
+
+### ------- INFO -------
+name: Eimi
+rarity: SSR : ★★★☆☆
+
+school: Millennium
+club: "SPTF"
+tags: "Millennium" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Explosion" :; "Front" :; "SG" :; "Uncover" :; "StreetBattle_Over_A" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: tanker
+position: front
+
+armor: light_armor
+bullet: explosion
+
+weapon: SG
+aim ik: two_hand_right
+
+equipments: shoes :; bag :; charm
+
+
+### ------- STATS -------
+hp:
+  min: 3066
+  max: 51240
+atk:
+  min: 113
+  max: 1133
+def:
+  min: 183
+  max: 1103
+heal:
+  min: 1369
+  max: 4107
+
+stability:
+  rate: 2000 : 20%
+  point: 2044
+
+critical:
+  crit point: 195
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 8
+
+range: 350
+regen: 700
+dodge: 234
+accuracy: 586
+
+environment:
+  street: S
+  indoor: D
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: エイミ
+
+  family name:
+    jp: 和泉元 : ruby: いずみもと
+
+  full name:
+    jp: 和泉元 エイミ : ruby: いずみもと エイミ
+
+status message:
+  jp: ここにステータスメッセージを入力
+
+age: 15
+height: 167
+school year: 1
+
+birthday:
+  day: 1
+  month: 5
+
+hobbies:
+  : "ボーっとすること"
+  : "音楽鑑賞"
+
+introduction: [[
+ミレニアムサイエンススクール所属、特異現象捜査部のメンバー。
+
+口数が少ない、考えを読みづらい少女。特に理由もなくぼーっと立っていることも多い。
+しかしセミナーの依頼を受けて任務を遂行する時だけは、誰よりも効率的に動き、迅速に目標を達成させる。
+]]

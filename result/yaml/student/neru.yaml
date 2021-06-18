@@ -1,0 +1,103 @@
+id: 10008
+dev name: Neru_default
+
+
+### ------- INFO -------
+name: Neru
+rarity: SSR - ★★★☆☆
+
+school: Millennium
+club: "CleanNClearing"
+tags: ["Millennium", "AllyMedium", "Main", "LightArmor", "Pierce", "Front", "SMG", "Cover", "StreetBattle_Under_B", "OutdoorBattle_Over_A", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: front
+
+armor: light_armor
+bullet: pierce
+
+weapon: SMG
+aim ik: dual
+
+equipments: [hat, badge, charm]
+
+
+### ------- STATS -------
+hp:
+  min: 2252
+  max: 31230
+atk:
+  min: 208
+  max: 2081
+def:
+  min: 17
+  max: 105
+heal:
+  min: 1398
+  max: 4194
+
+stability:
+  rate: 2000 - 20%
+  point: 1400
+
+critical:
+  crit point: 274
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 6
+  count: 24
+
+range: 450
+regen: 700
+dodge: 958
+accuracy: 99
+
+environment:
+  street: D
+  indoor: B
+  outdoor: S
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ネル
+
+  family name:
+    jp: 美甘
+    jp ruby: みかも
+
+  full name:
+    jp: 美甘 ネル
+    jp ruby: みかも ネル
+
+status message:
+  jp: あぁん！？
+
+age: 17
+height: 146
+school year: 3
+
+birthday:
+  day: 17
+  month: 8
+
+hobbies:
+  - "勝利"
+
+introduction: |
+  ミレニアムサイエンススクール所属、エージェント組織「C&C」のリーダー。
+
+  一見してメイド服の上にスカジャンを着たチンピラの子供にしか見えないが、実はミレニアム最強の戦闘能力を持ったエージェントである。
+  そのため彼女のコールサイン「ダブルオー」は、界隈では約束された勝利の象徴とされている。

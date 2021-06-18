@@ -1,0 +1,103 @@
+id: 13006
+dev name: Mutsuki_default
+
+
+### ------- INFO -------
+name: Mutsuki
+rarity: SR - ★★☆☆☆
+
+school: Gehenna
+club: "Kohshinjo68"
+tags: ["Gehenna", "AllyMedium", "Main", "LightArmor", "Explosion", "Back", "MG", "Uncover", "StreetBattle_Over_A", "OutdoorBattle_Over_A", "IndoorBattle_Under_B"]
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: MG
+aim ik: two_hand_right
+
+equipments: [hat, hairpin, watch]
+
+
+### ------- STATS -------
+hp:
+  min: 2259
+  max: 19590
+atk:
+  min: 190
+  max: 1900
+def:
+  min: 80
+  max: 482
+heal:
+  min: 1393
+  max: 4181
+
+stability:
+  rate: 2000 - 20%
+  point: 1404
+
+critical:
+  crit point: 199
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 45
+
+range: 750
+regen: 700
+dodge: 199
+accuracy: 99
+
+environment:
+  street: A
+  indoor: D
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ムツキ
+
+  family name:
+    jp: 浅黄
+    jp ruby: あさぎ
+
+  full name:
+    jp: 浅黄 ムツキ
+    jp ruby: あさぎ ムツキ
+
+status message:
+  jp: 何か面白いことないかな～
+
+age: 16
+height: 144
+school year: 2
+
+birthday:
+  day: 29
+  month: 7
+
+hobbies:
+  - "爆弾収集"
+
+introduction: |
+  ゲヘナ学園所属、便利屋68の行動派。
+
+  つい罪悪感に悩まされがちなアルとは違って躊躇いなく悪事を犯し、トラブルを楽しむ小悪魔のような少女。
+  アルとは幼馴染なので彼女のハッタリを誰よりも理解しているが、特に配慮してあげたりはしない。

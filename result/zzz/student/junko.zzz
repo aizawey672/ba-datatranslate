@@ -1,0 +1,101 @@
+id: 13007
+dev name: Zunko_default
+
+
+### ------- INFO -------
+name: Junko
+rarity: SR : ★★☆☆☆
+
+school: Gehenna
+club: "GourmetClub"
+tags: "Gehenna" :; "AllyMedium" :; "Main" :; "LightArmor" :; "Pierce" :; "Middle" :; "AR" :; "Cover" :; "StreetBattle_Under_B" :; "OutdoorBattle_Over_A" :; "IndoorBattle_Under_B"
+
+
+### ------- STATUS -------
+type: striker
+role: damage_dealer
+position: middle
+
+armor: light_armor
+bullet: pierce
+
+weapon: AR
+aim ik: two_hand_right
+
+equipments: hat :; hairpin :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 2264
+  max: 22640
+atk:
+  min: 274
+  max: 2741
+def:
+  min: 20
+  max: 120
+heal:
+  min: 1391
+  max: 4173
+
+stability:
+  rate: 2000 : 20%
+  point: 1408
+
+critical:
+  crit point: 198
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 650
+regen: 700
+dodge: 794
+accuracy: 695
+
+environment:
+  street: B
+  indoor: B
+  outdoor: A
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ジュンコ
+
+  family name:
+    jp: 赤司 : ruby: あかし
+
+  full name:
+    jp: 赤司 ジュンコ : ruby: あかし ジュンコ
+
+status message:
+  jp: スパムお断り(╬☉益☉)
+
+age: 15
+height: 149
+school year: 1
+
+birthday:
+  day: 27
+  month: 12
+
+hobbies:
+  : "グルメ巡り"
+
+introduction: [[
+ゲヘナ学園所属、美食研究会のお澄ましさんな暴食家。
+
+ゲテモノを食べたり暴食を繰り返す他の美食研究会の部員達と違い、ある程度常識的な美食を楽しむ方だが、美味しい食べ物を目の前にすると理性を失ってしまうこともある。
+]]

@@ -1,0 +1,102 @@
+id: 20002
+dev name: Saya_default
+
+
+### ------- INFO -------
+name: Saya
+rarity: SSR : ★★★☆☆
+
+school: Shanhaijing
+club: "Endanbou"
+tags: "Shanhaijing" :; "AllyMedium" :; "Support" :; "LightArmor" :; "Explosion" :; "HG" :; "StreetBattle_Under_B" :; "OutdoorBattle_Under_B" :; "IndoorBattle_Over_A" :; "Uncover"
+
+
+### ------- STATUS -------
+type: special
+role: damage_dealer
+position: back
+
+armor: light_armor
+bullet: explosion
+
+weapon: HG
+aim ik: none
+
+equipments: gloves :; hairpin :; watch
+
+
+### ------- STATS -------
+hp:
+  min: 2288
+  max: 17101
+atk:
+  min: 194
+  max: 1941
+def:
+  min: 20
+  max: 122
+heal:
+  min: 1581
+  max: 4745
+
+stability:
+  rate: 2000 : 20%
+  point: 1168
+
+critical:
+  crit point: 245
+  crit dmg rate: 20000 : 200%
+
+  res point: 100
+  res dmg rate: 5000 : 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 1
+  count: 15
+
+range: 1000
+regen: 700
+dodge: 1080
+accuracy: 98
+
+environment:
+  street: B
+  indoor: S
+  outdoor: D
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: サヤ
+
+  family name:
+    jp: 薬子 : ruby: やくし
+
+  full name:
+    jp: 薬子 サヤ : ruby: やくし サヤ
+
+status message:
+  jp: ぼく様を讃えよ！
+
+age: 16
+height: 149
+school year: 2
+
+birthday:
+  day: 3
+  month: 1
+
+hobbies:
+  : "研究"
+
+introduction: [[
+山海経高級中学校所属の天才発明家。
+
+小学生の頃にはすでに学位を六つも取っていたほどの天才だが、天才というよりは、人をいじめたり問題を巻き起こすトラブルメーカーとして知られている。
+いつも連れているネズミのネズ助は子供の時から大の仲良しで、サヤにとっては家族のような大事な存在である。
+]]

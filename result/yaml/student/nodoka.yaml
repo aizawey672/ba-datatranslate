@@ -1,0 +1,103 @@
+id: 26006
+dev name: Nodoka_default
+
+
+### ------- INFO -------
+name: Nodoka
+rarity: R - ★☆☆☆☆
+
+school: RedWinter
+club: "Class227"
+tags: ["RedWinter", "AllyMedium", "Support", "HeavyArmor", "Explosion", "SMG", "StreetBattle_Under_B", "OutdoorBattle_Over_A", "IndoorBattle_Over_A", "Uncover"]
+
+
+### ------- STATUS -------
+type: special
+role: supporter
+position: back
+
+armor: heavy_armor
+bullet: explosion
+
+weapon: SMG
+aim ik: none
+
+equipments: [gloves, hairpin, necklace]
+
+
+### ------- STATS -------
+hp:
+  min: 2277
+  max: 17020
+atk:
+  min: 165
+  max: 1658
+def:
+  min: 20
+  max: 121
+heal:
+  min: 1589
+  max: 4769
+
+stability:
+  rate: 2000 - 20%
+  point: 1628
+
+critical:
+  crit point: 197
+  crit dmg rate: 20000 - 200%
+
+  res point: 100
+  res dmg rate: 5000 - 50%
+
+oppression:
+  power: 100
+  resist: 100
+
+ammo:
+  cost: 3
+  count: 15
+
+range: 1000
+regen: 700
+dodge: 1215
+accuracy: 98
+
+environment:
+  street: B
+  indoor: B
+  outdoor: B
+
+
+### ------- PROFILE -------
+scenario name:
+  personal name:
+    jp: ノドカ
+
+  family name:
+    jp: 天見
+    jp ruby: あまみ
+
+  full name:
+    jp: 天見 ノドカ
+    jp ruby: あまみ ノドカ
+
+status message:
+  jp: 一緒に星を見に行きましょう！★彡
+
+age: 16
+height: 147
+school year: 2
+
+birthday:
+  day: 20
+  month: 02
+
+hobbies:
+  - "天体観測"
+
+introduction: |
+  レッドウィンター連邦学園所属、ただし停学処分を受けて現在は旧校舎227号特別クラスで謹慎中の生徒。
+
+  停学の理由は「望遠鏡などを使ったストーキング行為」とのこと。
+  世の中の美しいものを直接その目で観察したいという欲求が強く、先生もその対象の一つ。227号特別クラスで長い間苦労をしてきたせいで、貧乏性が染みついている。
