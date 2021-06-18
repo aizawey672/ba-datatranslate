@@ -26,7 +26,7 @@ def toZZZString(student):
     result = textwrap.dedent(f"""\
     id: {student["Id"]}
     dev name: {student["DevName"]}
-    production step: {student["ProductionStep"]} 
+    production step: {student["ProductionStep"].lower()} 
 
 
     ### ------- INFO -------
@@ -141,7 +141,7 @@ def toYamlString(student):
     result = textwrap.dedent(f"""\
     id: {student["Id"]}
     dev name: {student["DevName"]}
-    production step: {student["ProductionStep"]} 
+    production step: {student["ProductionStep"].lower()} 
 
 
     ### ------- INFO -------
